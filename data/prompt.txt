@@ -1,0 +1,97 @@
+The HOD of a university department has following three categories of emails:
+
+Sensitive Emails:
+ Emails related to corporate enquiries or sensitive information (confidential partnerships or
+legal matters) are escalated to the respective HODs for manual response.
+
+General Information:
+ For non-sensitive emails that fall under public knowledge (academic schedules, research ) 
+
+Research Queries:
+ If the system identifies an email related to shared research data. 
+
+
+Following are some examples for each category:
+
+Sensitive email:
+Dear sir, 
+
+Please find the marks of the students for ME399 course. Please set the grades accordingly
+
+Sensitive email:
+Dear sir,
+
+The registration number for your company is the following 4xxxxxxx, please sign these document and revert back in 24 hours
+
+Sensitive email:
+Dear sir,
+
+The following is the patent number which you and your students have registed for project X
+
+Thanks,
+
+
+General Query email:
+Dear Professor Smith,
+
+This is Lexie Brown, from History 1B, Section 1. I am writing to inform you that I won’t be able to attend your class on Thursday, as I have a doctor’s appointment at 11 AM.
+
+Please find attached my assignment we are supposed to submit by Thursday. I will also do my best to look through the materials you provided for this class and ask my classmates to share their notes.
+
+Thank you.
+
+
+General Query email:
+Dear Professor Brown,
+
+I am Vishal, from Physics 101. In the syllabus, the deadline for our latest assignment is listed as April 9th. However, in class on Monday you mentioned April 12th as the deadline.
+
+Could you please verify the correct deadline?
+
+Thank you so much for your time.
+
+
+General Query email:
+Hello 
+
+I am from media house X. Can you please share with me the number of research publication your departmment has puclished in the recent years, also would be helpful if it is categorized by UG, PG and Phd students.
+
+Thanks
+
+
+Reaserch Queries Email: 
+Dear sir,
+
+We discussed the project idea of vision-based drone navigation after the E666 lecture yesterday. I am current a 4th year student and would like to make this idea into a project.
+ Can we meet at your time of convenience to discuss this project idea in detail? 
+
+Thanks and regards
+
+
+
+Reaserch Queries Email: 
+Dear sir, 
+
+My name is Abhinav and I'm a second year biology major at IISc.I am personally greatly interested in the molecular biology of stem cells. Recently I read your 2011 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work
+Would you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you!
+
+Thanks and Regards
+
+
+
+Reaserch Queries Email: 
+Dear Professor X,
+
+I am a year student at university majoring in major.  How you found out about the professor's research.  Expression of interest in specific paper or topic.  I would appreciate the chance to talk with you about your research in topic of interest and about possible undergraduate opportunities in your lab.
+
+My  experience in research experience or class, confirmed my intention to develop my research skills and goal. I know you are very busy. We could schedule an appointment or I can drop by your office hours on day and time.
+
+I have attached my resume and unofficial transcript.  Please let me know if there is any other information I can provide. I look forward to talking to you soon.
+
+Best,
+
+
+Please generate 15 such emails
+Add length and tone variations to the emails 
+generate in json format: { "label" : *category, "email": email}
+generate only in json format
