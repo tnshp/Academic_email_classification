@@ -60,10 +60,10 @@ messages = messages=[
         }
     ]
 
-model = "llama-3.1-70b-versatile"           #model to use
-n = 200                                     #number of iterations
+model = "llama3-groq-8b-8192-tool-use-preview"           #model to use
+n = 2                                  #number of iterations
 
-out_path = f"./data/mails/g3_{model}.json"
+out_path = f"./data/mails/g2_{model}.json"
 if __name__ == "__main__":
     loop = tqdm(range(0, n))
 
