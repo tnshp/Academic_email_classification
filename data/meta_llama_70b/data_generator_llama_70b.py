@@ -63,7 +63,7 @@ messages = messages=[
 model = "llama3-70b-8192"                   #model to use
 n = 1000                                 #number of iterations
 
-out_path = f"./data/mails/g6_{model}.json"
+out_path = f"./data/mails/g7_{model}.json"
 if __name__ == "__main__":
     loop = tqdm(range(0, n))
 

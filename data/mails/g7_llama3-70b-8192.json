@@ -1,0 +1,2814 @@
+[
+    {
+        "label": 0,
+        "email": "Dear sir, I need access to the department's budget report for the last quarter. Please share the confidential document with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble understanding the concept of quantum mechanics. Can you please explain it to me or point me to some resources?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I'm a junior majoring in biology and I'm interested in your research on gene editing. I'd love to discuss potential research opportunities with you."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the patent application for our project with you. Can we schedule a meeting at your earliest convenience?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm a prospective student interested in your department. Can you tell me more about the curriculum and research opportunities available?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I'm a sophomore interested in machine learning. I came across your paper on deep learning and was impressed. Can we discuss potential research projects?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need to confirm the registration details for our company. Please share the documents with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble with my assignment. Can you please clarify the instructions or provide additional resources?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel, I'm a senior majoring in computer science and I'm interested in your research on natural language processing. Can we discuss potential research opportunities?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss a confidential matter related to a student's academic record. Can we schedule a meeting?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm interested in attending your research seminar next week. Can you please share the details with me?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I'm a junior majoring in physics and I'm interested in your research on quantum computing. I'd love to discuss potential research projects."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need to confirm the details of our partnership with XYZ corporation. Please share the confidential agreement with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm interested in taking your course on artificial intelligence next semester. Can you please share the syllabus with me?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I'm a sophomore majoring in chemistry and I'm interested in your research on materials science. Can we discuss potential research opportunities?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the student list for ME399 course. Please provide the marks and grades."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached documents for the company registration. Please sign and return within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to confirm the patent number for project Y. Please let me know the next steps."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am confused about the assignment deadline for Physics 101. Can you please clarify?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor Lee, I am interested in your research lab. Can we schedule a meeting to discuss opportunities?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, Can you provide me with the department's research publication statistics for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Thompson, I am a biology major interested in your work on gene editing. Can we discuss potential research opportunities?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I read your paper on machine learning and would love to explore a project in your lab. Can we meet this week?"
+    },
+    {
+        "label": 2,
+        "email": "Hi Dr. Martin, I am a junior majoring in computer science. I am interested in your research on AI. Can I volunteer in your lab?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please provide the confidential agreement for the corporate partnership."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, Can you confirm the academic schedule for the upcoming semester?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I am a sophomore interested in your research on environmental science. Can we discuss potential projects?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the legal documents for the research collaboration. Please provide the necessary information."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor Jackson, Can you provide me with information on the department's research facilities?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Chen, I am a senior majoring in biology. I am interested in your research on cancer treatment. Can we discuss potential thesis topics?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, \nI am writing to request the student list for the upcoming semester. Please share the list with me ASAP.\nThanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, \nI am a student in your Physics 102 class. I was wondering if you could clarify the assignment deadline for this week.\nThanks, John"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, \nI am a junior majoring in Biology and I am interested in your research on gene expression. I would love to discuss potential research opportunities with you.\nBest, Emily"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, \nPlease find attached the contract for the partnership with XYZ Inc. Please review and sign by the end of the week.\nThanks, Rachel"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, \nI am a freshman interested in majoring in Computer Science. Could you tell me more about the curriculum and course requirements?\nThanks, David"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee, \nI am a sophomore majoring in Chemistry and I am interested in your research on nanomaterials. I would love to discuss potential research opportunities with you.\nBest, Michael"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, \nPlease find attached the confidential report on the department's budget. Please review and provide feedback by the end of the month.\nThanks, James"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown, \nI am a student in your Math 101 class. I was wondering if you could provide additional resources for the upcoming exam.\nThanks, Sarah"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel, \nI am a junior majoring in Environmental Science and I am interested in your research on climate change. I would love to discuss potential research opportunities with you.\nBest, Rachel"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, \nPlease find attached the patent application for our recent research project. Please review and provide feedback by the end of the week.\nThanks, Emily"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, \nI am a student in your English 102 class. I was wondering if you could clarify the assignment deadline for this week.\nThanks, John"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim, \nI am a sophomore majoring in Computer Science and I am interested in your research on artificial intelligence. I would love to discuss potential research opportunities with you.\nBest, David"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, \nPlease find attached the confidential report on the department's personnel matters. Please review and provide feedback by the end of the month.\nThanks, James"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, \nI am a student in your Biology 101 class. I was wondering if you could provide additional resources for the upcoming exam.\nThanks, Michael"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, \nI am a junior majoring in Physics and I am interested in your research on quantum mechanics. I would love to discuss potential research opportunities with you.\nBest, Emily"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request a copy of the confidential partnership agreement between the university and company XYZ. Could you please share it with me? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need the registration number for our company's patent application. Could you please share it with me ASAP? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in computer science. I was wondering if you could provide me with information about the course curriculum for the upcoming semester. Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a sophomore interested in pursuing research in machine learning. I came across your paper on deep learning and was impressed. Could we discuss potential research opportunities in your lab? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson, I am a freshman in your introductory biology class. I was wondering if you could clarify the deadline for the upcoming assignment. Is it April 10th or April 15th? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need to discuss the legal implications of our research collaboration with company ABC. Could we schedule a meeting to discuss the details? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am a senior majoring in chemistry. I am interested in pursuing research in organic chemistry. Could we discuss potential research opportunities in your lab? I have attached my resume and transcript. Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Rodriguez, I am a student in your statistics class. I was wondering if you could provide me with information about the final exam format. Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the confidential research data shared by company DEF. Could we schedule a meeting to discuss the implications? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I am a junior majoring in physics. I am interested in pursuing research in quantum mechanics. Could we discuss potential research opportunities in your lab? I have attached my resume and transcript. Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin, I am a student in your computer systems class. I was wondering if you could provide me with information about the project requirements. Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need to discuss the legal agreement between the university and company GHI. Could we schedule a meeting to discuss the details? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Chen, I am a sophomore majoring in biology. I am interested in pursuing research in microbiology. Could we discuss potential research opportunities in your lab? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, I am a student in your mathematics class. I was wondering if you could provide me with information about the course textbook. Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the confidential research data shared by company JKL. Could we schedule a meeting to discuss the implications? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the student evaluation form for ME399 course. Please review and sign accordingly. Thanks, Best regards"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The registration number for your company is the following 4xxxxxxx, please sign these document and revert back in 24 hours. Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The following is the patent number which you and your students have registered for project Y. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am writing to inquire about the course materials for the upcoming semester. Could you please let me know where I can access them? Thank you for your time."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lee, I am having trouble accessing the online portal for my assignments. Could you please assist me in resolving the issue? Thank you."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am interested in knowing more about the research opportunities available in your department. Could you please share some information? Thank you."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Martin, My name is X and I'm a second year chemistry major at UVa. I am extremely interested in pursuing independent research as an undergraduate. I came across your 2015 paper on the role of nanoparticles in cancer treatment and became fascinated by your work. Would you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you! Thank you,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Hall, I am a junior majoring in biology at IISc. I am personally greatly interested in the molecular biology of stem cells. Recently I read your 2011 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work. Would you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you! Thanks and Regards"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the contract for the partnership with company X. Please review and sign accordingly. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson, I am writing to inquire about the office hours for your Monday lecture. Could you please let me know the timings? Thank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am a year student at university majoring in major. I came across your research on topic of interest and was impressed by your work. I would appreciate the chance to talk with you about your research in topic of interest and about possible undergraduate opportunities in your lab. My experience in research experience or class, confirmed my intention to develop my research skills and goal. I know you are very busy. We could schedule an appointment or I can drop by your office hours on day and time. I have attached my resume and unofficial transcript. Please let me know if there is any other information I can provide. I look forward to talking to you soon. Best,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Jackson, I am having trouble understanding the concept of quantum mechanics. Could you please explain it to me or direct me to a resource that can help? Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The following is the confidential agreement for project Z. Please review and sign accordingly. Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Brown, My name is Y and I'm a second year physics major at UVa. I am extremely interested in pursuing independent research as an undergraduate. I came across your 2018 paper on the role of black holes in the universe and became fascinated by your work. Would you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you! Thank you,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Taylor, I am writing to inquire about the research opportunities available in your department. Could you please share some information? Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached NDA for the project X. Please sign and return it within 48 hours.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the registration number for your company: 4xxxxxxx. Please sign the attached document and return it within 24 hours.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe patent number for your project is: XXXXXXX. Please keep it confidential.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Physics 101 class. I was wondering if you could clarify the deadline for the latest assignment.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\nI am a sophomore in your General Physics Class. I am interested in learning more about the research opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am from media house X. Could you please share the number of research publications your department has published in recent years?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a second-year biology major at UVa. I am interested in pursuing research in molecular biology of stem cells. I read your 2011 paper and was fascinated by your work.\nWould you be available to meet this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a year student at university majoring in biology. I am interested in your research on topic X. I would appreciate the chance to talk with you about possible undergraduate opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a second-year student at IISc. I am interested in your research on molecular biology of stem cells. I read your 2011 paper and was fascinated by your work.\nWould you be available to meet this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential agreement for the project Y. Please sign and return it within 72 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Physics 101 class. I was wondering if you could provide more information about the upcoming exam.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a third-year student at university majoring in chemistry. I am interested in your research on topic Z. I would appreciate the chance to talk with you about possible undergraduate opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Physics 101 class. I was wondering if you could provide more information about the course syllabus.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe following is the patent number which you and your students have registered for project X.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a second-year student at university majoring in biology. I am interested in your research on molecular biology of stem cells. I read your 2011 paper and was fascinated by your work.\nWould you be available to meet this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the attached documents for the partnership agreement between our university and XYZ corporation. Please review and sign them by the end of the week.\n\nThanks,\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am a first-year student in your Introduction to Computer Science class. I was wondering if you could clarify the assignment submission process for the upcoming project.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee,\n\nI am a junior majoring in Computer Science and I am extremely interested in your research on Artificial Intelligence. I recently read your paper on Deep Learning and its applications, and I was impressed by your work.\n\nWould you be available to meet sometime this week to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript for your review.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential documents related to the patent application for our research project. Please review and sign them by the end of the week.\n\nThanks,\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\n\nI am a sophomore in your Psychology class. I was wondering if you could provide me with the course syllabus for the upcoming semester.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\n\nI am a senior majoring in Biology and I am extremely interested in your research on Cancer Biology. I recently read your paper on the role of microRNAs in cancer development, and I was impressed by your work.\n\nWould you be available to meet sometime this week to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript for your review.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential documents related to the research collaboration with ABC University. Please review and sign them by the end of the week.\n\nThanks,\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\n\nI am a freshman in your Calculus class. I was wondering if you could provide me with additional resources to help me better understand the material.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim,\n\nI am a junior majoring in Chemistry and I am extremely interested in your research on Organic Chemistry. I recently read your paper on the synthesis of new compounds, and I was impressed by your work.\n\nWould you be available to meet sometime this week to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript for your review.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential documents related to the intellectual property agreement between our university and DEF corporation. Please review and sign them by the end of the week.\n\nThanks,\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall,\n\nI am a sophomore in your Economics class. I was wondering if you could provide me with information on the upcoming guest lecture.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown,\n\nI am a senior majoring in Physics and I am extremely interested in your research on Quantum Mechanics. I recently read your paper on the applications of Quantum Computing, and I was impressed by your work.\n\nWould you be available to meet sometime this week to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript for your review.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential documents related to the research grant application. Please review and sign them by the end of the week.\n\nThanks,\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lewis,\n\nI am a freshman in your English class. I was wondering if you could provide me with information on the upcoming writing competition.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Taylor,\n\nI am a junior majoring in Environmental Science and I am extremely interested in your research on Climate Change. I recently read your paper on the impact of human activities on the environment, and I was impressed by your work.\n\nWould you be available to meet sometime this week to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript for your review.\n\nThank you for your time.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached agreement for the collaboration with company X. Please review and sign the document by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in Computer Science. I am interested in taking your Data Structures course next semester. Can you please let me know the prerequisites for the course?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a sophomore majoring in Biology. I came across your research on gene editing and found it fascinating. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential report on the department's budget for the upcoming year. Please review and let me know if you have any questions.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a freshman taking your Introduction to Psychology course. Can you please clarify the assignment due date for this week?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel,\nI am a senior majoring in Chemistry. I am interested in pursuing research in your lab on the topic of sustainable energy. Can we schedule a meeting to discuss potential projects?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent application for our recent research on AI. Please review and sign the document by the end of the month.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a graduate student in the Physics department. Can you please provide me with the department's policy on academic integrity?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim,\nI am a junior majoring in Environmental Science. I am interested in researching the impact of climate change on local ecosystems. Can we discuss potential research opportunities in your lab?\nAttached is my resume and transcript.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential report on the department's personnel matters. Please review and let me know if you have any questions.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall,\nI am a sophomore majoring in Math. Can you please provide me with the course syllabus for your Calculus course?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Thompson,\nI am a senior majoring in Computer Science. I am interested in pursuing research in your lab on the topic of machine learning. Can we schedule a meeting to discuss potential projects?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the agreement for the collaboration with company Y. Please review and sign the document by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Wilson,\nI am a freshman taking your Introduction to Economics course. Can you please clarify the assignment due date for this week?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Brown,\nI am a junior majoring in Biology. I am interested in researching the impact of genetic engineering on ecosystems. Can we discuss potential research opportunities in your lab?\nAttached is my resume and transcript.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached document for the partnership with XYZ corporation. Please sign and return within 48 hours. Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble accessing the online course materials for Physics 202. Can you please help me with the login credentials? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I'm a junior majoring in biology and came across your paper on gene editing. I'd love to discuss potential research opportunities in your lab. Can we meet this week? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please confirm the patent number for our recent project. We need to submit it to the funding agency by Friday."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor Smith, I'm interested in pursuing a minor in computer science. Can you please provide me with the course requirements and any additional information? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I'm a sophomore interested in machine learning. I read your paper on deep learning and was impressed. Can I volunteer in your lab to gain some experience? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the confidential agreement for the research collaboration with ABC university. Please review and sign by the end of the week."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble with the assignment submission portal. Can you please help me resolve the issue? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I'm a senior majoring in chemistry and came across your research on nanomaterials. I'd love to discuss potential research opportunities in your lab. Can we meet this week? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please confirm the registration number for our company. We need to submit it to the government agency by Friday."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm interested in pursuing a PhD in physics. Can you please provide me with the admission requirements and any additional information? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Chen, I'm a junior majoring in biology and came across your paper on cancer research. I'd love to discuss potential research opportunities in your lab. Can we meet this week? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached document for the legal agreement with DEF corporation. Please review and sign by the end of the week."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble with the online course materials for Math 301. Can you please help me with the login credentials? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Wang, I'm a sophomore majoring in computer science and came across your paper on artificial intelligence. I'd love to discuss potential research opportunities in your lab. Can we meet this week? Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the student list for ME399 course. Please share the grades and marks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am from company X. Please find attached the agreement for our partnership. Sign and return within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please confirm the patent number for project Y. We need it for further processing."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior in your Economics class. I am interested in your research on market trends. Can we discuss it further?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am from the university newspaper. Can you provide me with the department's research publication statistics for the past year?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson, I am having trouble accessing the course materials for CS101. Can you please assist me?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a sophomore in biology. I am fascinated by your work on gene editing. Can we discuss possible research opportunities in your lab?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am interested in your research on renewable energy. Can I volunteer in your lab to gain research experience?"
+    },
+    {
+        "label": 2,
+        "email": "Dear sir, I am a junior in chemistry. I read your paper on nanotechnology and would love to discuss it further. Can we schedule a meeting?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find attached the confidential agreement for our research collaboration. Please sign and return ASAP."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, Can you please clarify the assignment deadline for our Psychology class?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am from the university's marketing team. Can you provide me with information on the department's upcoming events?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I am a senior in physics. I am interested in your research on quantum computing. Can we discuss possible thesis topics?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Hall, I am a sophomore in biology. I am fascinated by your work on microbiology. Can I assist in your lab as a research assistant?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please confirm the registration number for our company. We need it for further processing."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the latest budget report for the department. Please share the document with me.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI am writing to request the confidential partnership agreement between our university and XYZ corporation.\n\nPlease share the document with me.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the patent details for the project Y. Please share the documents with me.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am a junior majoring in computer science. I was wondering if you could provide me with the course schedule for the upcoming semester.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am having trouble accessing the online course materials for your class. Could you please assist me?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a journalist from XYZ news. Could you please provide me with the department's research publication statistics for the past year?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a sophomore majoring in biology. I came across your research paper on gene editing and was fascinated by it. I would love to discuss potential research opportunities with you.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith,\n\nI am a junior majoring in chemistry. I am interested in pursuing research in the field of nanotechnology. I would appreciate the opportunity to discuss your research with you.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a senior majoring in physics. I am interested in pursuing a research project under your guidance. Could we schedule a meeting to discuss potential topics?\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the confidential student records for the past semester. Please share the documents with me.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a freshman majoring in mathematics. I was wondering if you could provide me with information about the math club on campus.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a sophomore majoring in computer science. I am interested in pursuing research in the field of artificial intelligence. I would appreciate the opportunity to discuss your research with you.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a senior majoring in biology. I was wondering if you could provide me with information about the internship opportunities available in the department.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a junior majoring in chemistry. I am interested in pursuing research in the field of materials science. I would appreciate the opportunity to discuss your research with you.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the confidential agreement between our university and ABC corporation. Please share the document with me.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the marks of the students for ME399 course. Please set the grades accordingly\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nThe registration number for your company is the following 4xxxxxxx, please sign these document and revert back in 24 hours\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nThe following is the patent number which you and your students have registed for project X\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\n\nMy name is Emma Jones and I am a sophomore in your Tuesday/Thursday General Physics Class.  I am writing because in class yesterday you mentioned having some open positions in your research lab.  I found the summary of your project very interesting, and I would like to learn more and possibly talk to you about joining the lab.  Is there a time in the coming weeks that we could meet?\nThank you for your time and I look forward to hearing from you soon!\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\n\nI am Vishal, from Physics 101. In the syllabus, the deadline for our latest assignment is listed as April 9th. However, in class on Monday you mentioned April 12th as the deadline.\nCould you please verify the correct deadline?\nThank you so much for your time."
+    },
+    {
+        "label": 1,
+        "email": "Hello \n\nI am from media house X. Can you please share with me the number of research publication your departmment has puclished in the recent years, also would be helpful if it is categorized by UG, PG and Phd students.\nThanks"
+    },
+    {
+        "label": 2,
+        "email": "Dear sir,\n\nMy name is X and I'm a second year biology major at UVa. In my introductory and upper-level coursework, I've developed a passion for science and am extremely interested in pursuing independent research as an undergraduate. An extensive research experience will greatly help me consolidate my future career choice.\nI am personally greatly interested in the molecular biology of stem cells. Recently I read your 2011 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work. In particular, I found it amazing that microRNAs can alter the fate of a cell in such a profound way. If possible, I would love to start working on a long-term project in your lab beginning this summer.\nWould you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you!\nThank you,"
+    },
+    {
+        "label": 2,
+        "email": "Dear sir, \n\nMy name is Abhinav and I'm a second year biology major at IISc.I am personally greatly interested in the molecular biology of stem cells. Recently I read your 2011 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work\nWould you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested. I look forward to hearing from you!\nThanks and Regards"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\n\nI am a year student at university majoring in major.  How you found out about the professor's research.  Expression of interest in specific paper or topic.  I would appreciate the chance to talk with you about your research in topic of interest and about possible undergraduate opportunities in your lab.\nMy  experience in research experience or class, confirmed my intention to develop my research skills and goal. I know you are very busy. We could schedule an appointment or I can drop by your office hours on day and time.\nI have attached my resume and unofficial transcript.  Please let me know if there is any other information I can provide. I look forward to talking to you soon.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI need access to the confidential documents related to the project X. Please provide me the necessary clearance.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am interested in pursuing a minor in physics. Could you please provide me with the course requirements and the application process?\nThank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Y,\n\nI am a junior majoring in biology and I am interested in pursuing research in the field of molecular biology. I came across your paper on the role of microRNAs in stem cell differentiation and I was impressed by your work.\nI would like to inquire about possible research opportunities in your lab. Could we schedule a meeting to discuss this further?\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am having trouble accessing the online course materials for your physics class. Could you please help me resolve this issue?\nThank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Z,\n\nI am a senior majoring in chemistry and I am interested in pursuing research in the field of materials science. I came across your paper on the development of new materials for energy storage and I was impressed by your work.\nI would like to inquire about possible research opportunities in your lab. Could we schedule a meeting to discuss this further?\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI need to discuss a confidential matter related to my research project. Could we schedule a meeting to discuss this further?\nThank you for your time."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the student list of ME499 course. Please share the list with me. Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached document related to our partnership. Please sign and return within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The patent number for project Y is 123456. Please keep this confidential."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a junior in your department. Can you please share the course schedule for the upcoming semester? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am having trouble accessing the online course material for Physics 101. Can you please help me with this?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, Can you please share the department's research publication statistics for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a sophomore interested in your research on machine learning. Can we discuss possible research opportunities? I have attached my resume."
+    },
+    {
+        "label": 2,
+        "email": "Hi Professor, I came across your paper on climate change and was impressed. Can I volunteer in your lab to learn more about your research?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached NDA for our partnership. Please sign and return within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, Can you please clarify the deadline for the upcoming assignment in Physics 102? The syllabus says one date, but you mentioned a different date in class."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a junior interested in your research on robotics. Can we discuss possible research opportunities? I have attached my resume and transcript."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached confidential document related to our project. Please keep this confidential."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, Can you please share the department's policy on internships and research opportunities for undergraduate students?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a sophomore interested in your research on computer vision. Can I meet with you to discuss possible research opportunities? I have attached my resume and transcript."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, Can you please share the course material for Physics 103? I am having trouble accessing it online."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached NDA for the project X. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nI am reaching out to you regarding the partnership with company Y. Please find the agreement attached. Let me know if you have any questions.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe patent for your project has been approved. Please find the details attached.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Physics 101 class. I was wondering if you could clarify the syllabus for the course.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\nI am interested in learning more about the research opportunities in your lab. Could we schedule a meeting to discuss?\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a journalist from media house Z. Could you provide me with the number of research publications from your department in the past year?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a biology major at UVa. I came across your paper on the role of microRNAs in stem cell differentiation and was fascinated. Would you be available to meet to discuss your research?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a year student at university majoring in biology. I am interested in your research on gene expression. Would you be available to meet to discuss possible undergraduate opportunities in your lab?\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a student at IISc. I am interested in your research on molecular biology. I would appreciate the chance to talk with you about your research and possible opportunities in your lab.\nThanks and regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential agreement for the project Y. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your General Physics class. I was wondering if you could clarify the deadline for the latest assignment.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nI am a biology major at university. I came across your paper on the role of microRNAs in stem cell differentiation and was fascinated. Would you be available to meet to discuss your research and possible opportunities in your lab?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nI am reaching out to you regarding the partnership with company Z. Please find the agreement attached. Let me know if you have any questions.\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Physics 101 class. I was wondering if you could provide me with the course schedule for the semester.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a year student at university majoring in biology. I am interested in your research on gene expression. I would appreciate the chance to talk with you about your research and possible undergraduate opportunities in your lab.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the details of the MOU signed with XYZ corporation. Please share the document with me.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI am writing to request the confidential report of the project X. Please share it with me at the earliest.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the patent details of the project Y. Please share the documents with me.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a student in your physics class. I was wondering if you could share the notes of the last lecture.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a sophomore in your department. I was wondering if you could provide me with the course schedule for the upcoming semester.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a journalist from XYZ media house. I was wondering if you could provide me with the department's research publication statistics.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a biology major and I am extremely interested in your research on stem cells. I would love to discuss possible undergraduate opportunities in your lab.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a second year student and I am fascinated by your research on machine learning. I would love to volunteer in your lab and learn more about your work.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a year student at university majoring in computer science. I am extremely interested in your research on natural language processing. I would appreciate the chance to talk with you about your research.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the details of the corporate partnership with ABC corporation. Please share the documents with me.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a student in your department. I was wondering if you could provide me with the information about the upcoming seminar.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a year student at university majoring in biology. I am extremely interested in your research on gene editing. I would appreciate the chance to talk with you about your research.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the details of the legal case filed against the university. Please share the documents with me.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a student in your department. I was wondering if you could provide me with the information about the department's research facilities.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a year student at university majoring in chemistry. I am extremely interested in your research on nanotechnology. I would appreciate the chance to talk with you about your research.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential agreement for the partnership with company X. Please sign and return within 48 hours.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nI am writing to request the student grades for the ME399 course. Please ensure the grades are accurate and confidential.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe patent number for project Y is attached. Please review and sign the document.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in physics. I was wondering if you could provide me with the academic schedule for the upcoming semester.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am having trouble accessing the research papers on the department's website. Could you please assist me?\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\nI am a journalist from media house Y. Could you please provide me with the number of research publications by your department in the past year?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nMy name is Z and I'm a second year biology major at UVa. I am extremely interested in pursuing independent research in your lab. I read your 2015 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a year student at university majoring in biology. I came across your research on the molecular biology of stem cells and was impressed. I would appreciate the chance to talk with you about your research and about possible undergraduate opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Y,\nI am a sophomore majoring in chemistry. I am interested in pursuing research in your lab. I read your 2018 paper on the role of nanoparticles in cancer treatment and was fascinated by your work.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe registration number for your company is attached. Please sign and return within 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman majoring in physics. I was wondering if you could provide me with information on the research opportunities available in your department.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am having trouble accessing the online course materials for Physics 101. Could you please assist me?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a junior majoring in biology. I am interested in pursuing research in your lab. I read your 2019 paper on the role of gene editing in cancer treatment and was impressed.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe confidential agreement for the partnership with company Y is attached. Please review and sign the document.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\nI am a journalist from media house Z. Could you please provide me with the number of research publications by your department in the past five years?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I would like to request the student evaluation reports for the ME399 course. Please share the grades and feedback."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to confirm the registration details for our company. Please sign and return the attached documents by the end of the week."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the patent application documents for Project Y. Your prompt response is appreciated."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in Physics. I was wondering if you could provide information about the upcoming seminar series."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am having trouble accessing the online course materials for Physics 101. Could you please assist me in resolving the issue?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown, I am a journalist from XYZ News. Could you provide information on the department's research output in the past year?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith, I am a sophomore interested in molecular biology. I came across your paper on gene regulation and would love to discuss potential research opportunities."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a biology major at UVa. I am fascinated by your work on stem cell research and would like to explore the possibility of working in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please confirm the receipt of the confidential documents sent earlier this week."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a prospective student interested in pursuing a Ph.D. in Physics. Could you provide information about the application process and deadlines?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X, I am a junior majoring in Biology. I am impressed by your research on cancer cells and would like to discuss potential research opportunities."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to request a meeting to discuss a potential partnership with a private company."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a student in your Physics 101 class. Could you please clarify the assignment submission deadline?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a senior majoring in Chemistry. I am interested in your research on nanomaterials and would like to explore the possibility of working in your lab."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student from another university interested in attending a seminar at your department. Could you provide information about upcoming events?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached document for the partnership with XYZ Inc. Please review and sign the document by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman in your Introduction to Computer Science class. I was wondering if you could clarify the deadline for the upcoming assignment.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a sophomore majoring in Biology. I came across your paper on the effects of climate change on ecosystems and was fascinated by your work. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential agreement for the research project with ABC Corporation. Please review and sign the document by the end of the month.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Hello,\nI am a student in the Physics department. I was wondering if you could provide me with information on the number of research publications in the past year.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a junior majoring in Chemistry. I am interested in pursuing research in the field of materials science. I came across your paper on nanomaterials and was impressed by your work. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent application for the project X. Please review and sign the document by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\nI am a student in your General Physics class. I was wondering if you could clarify the grading policy for the course.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown,\nI am a sophomore majoring in Biology. I am interested in pursuing research in the field of microbiology. I came across your paper on the effects of antibiotics on microbial communities and was fascinated by your work. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential agreement for the research project with DEF University. Please review and sign the document by the end of the month.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Hello,\nI am a student in the Computer Science department. I was wondering if you could provide me with information on the academic schedule for the upcoming semester.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in Physics. I am interested in pursuing research in the field of astrophysics. I came across your paper on black holes and was impressed by your work. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the registration number for your company. Please sign the document and revert back within 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lee,\nI am a student in your Introduction to Biology class. I was wondering if you could clarify the assignment deadline.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a sophomore majoring in Chemistry. I am interested in pursuing research in the field of organic chemistry. I came across your paper on synthetic chemistry and was fascinated by your work. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need access to the department's budget report for the past quarter. Could you please share it with me?\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI am writing to confirm the details of our partnership with XYZ Inc. Please find attached the NDA for your review and signature.\n\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI am reaching out to discuss the patent application for our recent research project. Could you please provide an update on the status?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am a freshman in your Introduction to Computer Science class. I was wondering if you could provide me with the syllabus for the course.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Hello Professor,\n\nI am a journalist from XYZ News. Could you please provide me with the department's research publication count for the past year?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a student in your Physics 102 class. I was wondering if you could clarify the deadline for our upcoming assignment.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee,\n\nI am a sophomore majoring in Biology. I came across your research paper on gene editing and was fascinated by it. I would love to discuss potential research opportunities in your lab.\n\nAttached is my resume and transcript.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a junior in the Computer Science department. I am interested in machine learning and was impressed by your work on neural networks. Could I meet with you to discuss potential research projects?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\n\nI am a senior majoring in Chemistry. I am interested in pursuing research in the field of materials science. I came across your paper on nanomaterials and was impressed by your work. Could I discuss potential research opportunities with you?\n\nAttached is my resume and transcript.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need access to the student grades for the past semester. Could you please share the report with me?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a student in your Economics 101 class. I was wondering if you could provide me with the course syllabus.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a sophomore majoring in Physics. I am interested in pursuing research in the field of astrophysics. I came across your paper on black holes and was impressed by your work. Could I discuss potential research opportunities with you?\n\nAttached is my resume and transcript.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI am writing to confirm the details of our partnership with ABC Corp. Please find attached the confidentiality agreement for your review and signature.\n\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a journalist from XYZ News. Could you please provide me with the department's research publication count for the past quarter?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a junior majoring in Computer Science. I am interested in pursuing research in the field of artificial intelligence. I came across your paper on machine learning and was impressed by your work. Could I discuss potential research opportunities with you?\n\nAttached is my resume and transcript.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the confidential report of the recent project. Please send it to me ASAP."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am from XYZ company. We need to discuss the patent details of our recent collaboration. Please call me back."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the NDA document for the upcoming project. Please sign and return it within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your Physics class. I was wondering if you could explain the concept of relativity in more detail."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am confused about the assignment deadline. Could you please clarify if it's April 9th or April 12th?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from XYZ news. Could you please provide me with the department's research publication statistics for the past year?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a biology major and I am interested in your research on gene editing. Could I volunteer in your lab to gain some experience?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I read your paper on machine learning and I am fascinated by it. Could I discuss possible research opportunities with you?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a computer science major and I am interested in your research on AI. Could I meet with you to discuss possible undergraduate research opportunities?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need the financial report of the department for the past quarter. Please send it to me ASAP."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your class and I was wondering if you could provide me with the lecture notes for the previous week."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a chemistry major and I am interested in your research on nanotechnology. Could I discuss possible research opportunities with you?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am from ABC company and we need to discuss the partnership details. Please call me back."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your class and I was wondering if you could provide me with the syllabus for the upcoming semester."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a physics major and I am interested in your research on quantum mechanics. Could I volunteer in your lab to gain some experience?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached NDA for the project X. Please sign and return it to us within 24 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am having trouble accessing the online course material for Physics 101. Can you please help me with the login credentials? Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a junior majoring in biology and came across your research on gene editing. I would love to discuss potential research opportunities in your lab. Can we schedule a meeting? Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the patent number for our project Y. Please ensure that all necessary documents are signed and returned to us within a week. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a freshman and would like to know more about the research opportunities available in the physics department. Can you please provide me with some information? Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee, I am a sophomore majoring in chemistry and am interested in your research on nanomaterials. I would love to discuss potential research opportunities in your lab. Can we schedule a meeting? Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the registration number for your company. Please ensure that all necessary documents are signed and returned to us within 24 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown, I am having trouble understanding the concept of quantum mechanics. Can you please explain it to me or provide some additional resources? Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel, I am a senior majoring in biology and came across your research on cancer treatment. I would love to discuss potential research opportunities in your lab. Can we schedule a meeting? Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the confidential agreement for the project Z. Please ensure that all necessary documents are signed and returned to us within a week. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am a junior majoring in physics and would like to know more about the academic schedule for the upcoming semester. Can you please provide me with some information? Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim, I am a sophomore majoring in chemistry and am interested in your research on renewable energy. I would love to discuss potential research opportunities in your lab. Can we schedule a meeting? Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the marks of the students for ME399 course. Please set the grades accordingly. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, I am a freshman and would like to know more about the research opportunities available in the chemistry department. Can you please provide me with some information? Thanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Martin, I am a junior majoring in biology and came across your research on gene therapy. I would love to discuss potential research opportunities in your lab. Can we schedule a meeting? Thanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the details of the partnership with company XYZ. Please share the MOU and other relevant documents."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to confirm the receipt of the confidential research proposal from ABC Inc. Please let me know the next steps."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the patent details of the project Y. Please share the patent number and other relevant information."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your Physics 101 class. Could you please clarify the deadline for the upcoming assignment?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith, I am interested in knowing more about the research opportunities in your lab. Could you please share some information about the projects you are currently working on?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from XYZ News. Could you please share the number of research publications from your department in the past year, categorized by UG, PG, and PhD students?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a biology major at UVa. I am interested in pursuing research in molecular biology. I came across your paper on microRNAs and would love to discuss possible research opportunities in your lab."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a second-year student at IISc. I am fascinated by your work on stem cell biology. Could I volunteer in your lab for a few weeks to learn more about your research?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X, I am a junior at university majoring in biology. I came across your paper on gene expression and would love to discuss possible research opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the details of the research collaboration with DEF University. Please share the MOU and other relevant documents."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your General Physics class. Could you please share the schedule for the upcoming semester?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from ABC News. Could you please share the number of research grants received by your department in the past year?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a senior at university majoring in chemistry. I am interested in pursuing research in materials science. Could I schedule a meeting with you to discuss possible research opportunities in your lab?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the details of the confidential research project with GHI Inc. Please share the project proposal and other relevant documents."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your Physics 102 class. Could you please clarify the prerequisites for the course?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached MOU for the partnership with company X. Please review and sign it by the end of the week.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in computer science. I was wondering if you could provide me with the course syllabus for CS 301.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a sophomore majoring in biology. I came across your paper on gene editing and was fascinated by it. I would love to discuss potential research opportunities in your lab.\nAttached is my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential report on the project X. Please keep it confidential and do not share it with anyone.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson,\nI am a freshman in your intro to physics class. I was wondering if you could explain the concept of relativity in simpler terms.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a junior majoring in chemistry. I am interested in your research on nanotechnology. Could I schedule a meeting with you to discuss potential research opportunities?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent application for the project Y. Please review and sign it by the end of the month.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a sophomore majoring in mathematics. I was wondering if you could provide me with the academic calendar for the upcoming semester.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Hall,\nI am a senior majoring in biology. I am interested in your research on cancer cells. Could I volunteer in your lab for a few weeks to gain research experience?\nAttached is my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential agreement with company Y. Please keep it confidential and do not share it with anyone.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a freshman in your intro to computer science class. I was wondering if you could explain the concept of algorithms in simpler terms.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Khan,\nI am a junior majoring in physics. I am interested in your research on quantum mechanics. Could I schedule a meeting with you to discuss potential research opportunities?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the registration number for your company. Please sign the attached document and return it within 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Rodriguez,\nI am a sophomore majoring in chemistry. I was wondering if you could provide me with the course syllabus for CH 301.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim,\nI am a senior majoring in mathematics. I am interested in your research on data analysis. Could I volunteer in your lab for a few weeks to gain research experience?\nAttached is my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the latest patent information for project Y. Please share the details."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am from company Z. Please provide the necessary documents for partnership renewal."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in biology. I was wondering if you could provide me with the course syllabus for BIO 202."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am having trouble accessing the online resources for our course. Could you please help me with the login credentials?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a sophomore interested in cancer research. I came across your paper on targeted therapy and was impressed. Could I discuss potential research opportunities with you?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need the confidential report for the recent project evaluation. Please share it with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a prospective student interested in your department. Could you provide me with information on the admission process?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am a senior majoring in computer science. I am interested in your work on AI and machine learning. Could I meet with you to discuss potential research projects?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the necessary documents for the corporate partnership agreement. Please sign and return them within 48 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your physics class. I was wondering if you could provide me with the notes from the last lecture."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a junior interested in environmental science. I came across your paper on climate change and was impressed. Could I discuss potential research opportunities with you?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need the latest financial reports for the department. Please share them with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your biology class. I was wondering if you could provide me with information on the upcoming exam."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Johnson, I am a sophomore interested in materials science. I came across your paper on nanotechnology and was impressed. Could I discuss potential research opportunities with you?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need access to the confidential partnership agreement with company X. Could you please share the document with me? Thanks, John"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to request the registration number for our company's patent application. Could you please expedite the process? Best, Jane"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the confidential research data for project Y. Please review and sign the document by the end of the week. Thanks, David"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in biology. I was wondering if you could provide me with the course schedule for the upcoming semester. Thanks, Rachel"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lee, I am having trouble accessing the online course materials for Physics 101. Could you please assist me? Best, Michael"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith, I am a journalist from X News. Could you please provide me with the number of research publications from your department in the past year? Thanks, Emily"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown, I am a sophomore majoring in chemistry. I am interested in pursuing research in your lab. Could we discuss possible opportunities? I have attached my resume and transcript. Best, Olivia"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Davis, I am fascinated by your research on nanotechnology. Could I volunteer in your lab for a few weeks to gain experience? I have attached my resume. Thanks, Kevin"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Taylor, I am a junior majoring in computer science. I am interested in your research on AI. Could we discuss possible undergraduate research opportunities? Best, Sophia"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the confidential agreement with company Y. Please review and sign the document by the end of the week. Thanks, Sarah"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, I am a freshman majoring in mathematics. Could you please provide me with the syllabus for Calculus 101? Thanks, Daniel"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Martin, I am a senior majoring in biology. I am interested in pursuing research in your lab. Could we discuss possible opportunities? I have attached my resume and transcript. Best, Julia"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Patel, I am a journalist from Y News. Could you please provide me with the number of students enrolled in your department? Thanks, Ryan"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need access to the confidential research data for project Z. Could you please share the document with me? Thanks, Christine"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim, I am a sophomore majoring in engineering. I am interested in your research on robotics. Could I volunteer in your lab for a few weeks to gain experience? I have attached my resume. Thanks, Alex"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the attached MOU for the partnership with company X. Please review and sign the document.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nThe registration number for your company is the following 4xxxxxxx, please sign these document and revert back in 24 hours.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nThe following is the patent number which you and your students have registered for project X.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith,\n\nI am writing to inquire about the syllabus for the upcoming semester. Could you please share it with me?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\n\nI am Vishal, from Physics 101. In the syllabus, the deadline for our latest assignment is listed as April 9th. However, in class on Monday you mentioned April 12th as the deadline.\n\nCould you please verify the correct deadline?\n\nThank you so much for your time."
+    },
+    {
+        "label": 1,
+        "email": "Hello,\n\nI am from media house X. Can you please share with me the number of research publication your department has published in the recent years, also would be helpful if it is categorized by UG, PG and Phd students.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith,\n\nMy name is X and I'm a second year biology major at UVa. I am personally greatly interested in the molecular biology of stem cells. Recently I read your 2011 paper on the role of microRNAs in the differentiation of muscle stem cells and became fascinated by your work.\n\nWould you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested.\n\nI look forward to hearing from you!\n\nThank you,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\n\nI am a year student at university majoring in major. I came across your research on topic of interest and was impressed by your findings. I would appreciate the chance to talk with you about your research in topic of interest and about possible undergraduate opportunities in your lab.\n\nMy experience in research experience or class, confirmed my intention to develop my research skills and goal. I know you are very busy. We could schedule an appointment or I can drop by your office hours on day and time.\n\nI have attached my resume and unofficial transcript. Please let me know if there is any other information I can provide.\n\nI look forward to talking to you soon.\n\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the attached NDA for the project with company Y. Please review and sign the document.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am writing to inquire about the availability of your research lab for undergraduate students. Could you please share the details with me?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\n\nMy name is Y and I'm a third year chemistry major at MIT. I am personally greatly interested in the field of materials science. Recently I read your 2015 paper on the development of new materials and became fascinated by your work.\n\nWould you be available to meet sometime this week to discuss your research? I would also be happy to volunteer in your lab for a few weeks before we commit to anything to see if this is a good match. My transcript and resume are attached in case you are interested.\n\nI look forward to hearing from you!\n\nThank you,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\n\nI am writing to inquire about the academic calendar for the upcoming semester. Could you please share it with me?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Z,\n\nI am a year student at university majoring in major. I came across your research on topic of interest and was impressed by your findings. I would appreciate the chance to talk with you about your research in topic of interest and about possible undergraduate opportunities in your lab.\n\nMy experience in research experience or class, confirmed my intention to develop my research skills and goal. I know you are very busy. We could schedule an appointment or I can drop by your office hours on day and time.\n\nI have attached my resume and unofficial transcript. Please let me know if there is any other information I can provide.\n\nI look forward to talking to you soon.\n\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nThe following is the confidential information regarding project Y. Please keep it confidential.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Wilson,\n\nI am writing to inquire about the availability of your office hours for the upcoming week. Could you please share the details with me?\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached document for the partnership with company X. Please sign and return within 48 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman in your intro to computer science class. I was wondering if you could explain the concept of recursion again. I didn't quite understand it in class.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a junior majoring in biology and I came across your research on gene editing. I am extremely interested in learning more about it. Would it be possible to discuss potential research opportunities in your lab?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential report on the university's research grants. Please review and return with your comments.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a sophomore in your psychology class. I was wondering if you could provide me with the course syllabus for the upcoming semester.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a senior majoring in chemistry and I am interested in pursuing research in your lab. I came across your paper on nanotechnology and was impressed by your work. Would it be possible to discuss potential research opportunities?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent application for our recent research project. Please review and sign within the next 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a freshman in your calculus class. I was wondering if you could explain the concept of derivatives again. I didn't quite understand it in class.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Hall,\nI am a junior majoring in physics and I came across your research on quantum mechanics. I am extremely interested in learning more about it. Would it be possible to discuss potential research opportunities in your lab?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential report on the university's research partnerships. Please review and return with your comments.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson,\nI am a sophomore in your statistics class. I was wondering if you could provide me with the course syllabus for the upcoming semester.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim,\nI am a senior majoring in biology and I am interested in pursuing research in your lab. I came across your paper on microbiology and was impressed by your work. Would it be possible to discuss potential research opportunities?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the registration number for our company. Please sign and return within the next 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor White,\nI am a freshman in your economics class. I was wondering if you could explain the concept of supply and demand again. I didn't quite understand it in class.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Brown,\nI am a junior majoring in computer science and I came across your research on artificial intelligence. I am extremely interested in learning more about it. Would it be possible to discuss potential research opportunities in your lab?\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the confidential report of the ME499 course. Please share it with me."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached NDA document for the partnership with company XYZ. Kindly sign and return it within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to confirm the patent registration number for our project Y."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in Computer Science. I am interested in taking your Advanced Algorithms course. Can you please let me know the prerequisites for the course?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am a student in your Calculus class. I was wondering if you could clarify the concept of limits that we discussed in class yesterday."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from X news agency. Can you please provide me with the department's research publication statistics for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith, I am a sophomore majoring in Biology. I came across your research paper on gene editing and was fascinated by it. I would love to discuss potential research opportunities in your lab."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee, I am a junior majoring in Computer Science. I am interested in pursuing research in AI and machine learning. I would appreciate the opportunity to discuss my interests with you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please confirm the registration number for our company's subsidiary."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown, I am a student in your Physics class. Can you please clarify the concept of relativity that we discussed in class yesterday?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Johnson, I am a senior majoring in Chemistry. I came across your research paper on nanotechnology and was impressed by it. I would love to discuss potential research opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached confidential document related to our partnership with company ABC. Kindly review and sign it within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am a student in your Math class. Can you please provide me with the course syllabus for the upcoming semester?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee, I am a sophomore majoring in Biology. I am interested in pursuing research in microbiology. I would appreciate the opportunity to discuss my interests with you."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith, I am a junior majoring in Computer Science. I came across your research paper on natural language processing and was fascinated by it. I would love to discuss potential research opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached document for the partnership agreement with company X. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in computer science. I was wondering if you could provide me with information about the upcoming career fair.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nMy name is Sarah and I'm a sophomore biology major at UVa. I came across your paper on gene editing and was fascinated by your work.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the confidential report on the recent research project. Please keep it confidential and do not share it with anyone.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am a student in your intro to psychology class. I was wondering if you could provide me with the notes from the last lecture.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith,\nI am a junior majoring in physics. I came across your research on quantum computing and was impressed by your work.\nI would love to discuss possible research opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe registration number for your company is the following 4xxxxxxx, please sign these documents and revert back in 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a student in your statistics class. I was wondering if you could provide me with information about the upcoming exam.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a sophomore majoring in biology. I came across your research on cancer treatment and was fascinated by your work.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nPlease find the attached document for the patent application. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am a student in your computer science class. I was wondering if you could provide me with information about the upcoming project deadline.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith,\nI am a junior majoring in chemistry. I came across your research on nanotechnology and was impressed by your work.\nI would love to discuss possible research opportunities in your lab.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe following is the patent number which you and your students have registered for project X.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a student in your economics class. I was wondering if you could provide me with information about the upcoming assignment.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a sophomore majoring in biology. I came across your research on gene therapy and was fascinated by your work.\nWould you be available to meet sometime this week to discuss your research?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the student evaluation forms for the recent seminar. Please review and respond back within 48 hours.\nThanks,\nRegards"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nWe are writing to inform you that your research proposal has been approved. Please find the project ID and password to access the project portal.\nBest,\nResearch Admin"
+    },
+    {
+        "label": 0,
+        "email": "Dear Dr. Smith,\nThe patent for your recent research on AI has been approved. Please find the patent number and details.\nThanks,\nRegards"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Thursday lecture on Computer Science. I had a question about the recent assignment deadline. Could you please clarify?\nThanks,\nBest regards"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor,\nI am a junior majoring in Physics. I was wondering if you could provide me with information about the research opportunities available in your department.\nThanks,\nEmma"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am a student in your Monday lab on Biology. I was wondering if you could provide me with information about the upcoming seminar on Genetics.\nThanks,\nVishal"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nMy name is John and I am a sophomore majoring in Computer Science. I came across your research on AI and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nThanks,\nJohn"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith,\nI am a junior majoring in Biology. I read your recent paper on Stem Cell Research and was fascinated by your work. I would love to discuss possible research opportunities in your lab.\nThanks,\nAbhinav"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the contract for the recent collaboration with XYZ Inc. Please review and sign the document within 24 hours.\nThanks,\nRegards"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Wednesday lecture on Math. I was wondering if you could provide me with information about the upcoming exam schedule.\nThanks,\nEmma"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\nI am a sophomore majoring in Physics. I came across your research on Quantum Mechanics and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nThanks,\nJohn"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nThe password for the department's research portal has been changed. Please find the new password and login credentials.\nThanks,\nIT Admin"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\nI am a student in your Friday lab on Chemistry. I was wondering if you could provide me with information about the research opportunities available in your department.\nThanks,\nVishal"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\nMy name is Emily and I am a junior majoring in Biology. I read your recent paper on Gene Editing and was fascinated by your work. I would love to discuss possible research opportunities in your lab.\nThanks,\nEmily"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the latest financial reports of the department. Please share the documents with me."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your psychology class. I was wondering if you could clarify the assignment deadline for this week. Thanks!"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a junior majoring in computer science. I came across your paper on AI and machine learning and was impressed. I would love to discuss potential research opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the confidential partnership with XYZ Inc. Please let me know a convenient time to meet."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a prospective student interested in your department. Could you please share information about the course curriculum and admission process?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel, I am a sophomore interested in environmental science. I read your research on sustainable energy and would like to explore potential research projects in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the patent documents for project Y. Please share the necessary information."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your biology class. I was wondering if you could provide additional resources for the upcoming exam."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I am a senior majoring in physics. I am interested in pursuing research in quantum mechanics and would like to discuss potential opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the legal matters related to the recent lawsuit. Please let me know a convenient time to meet."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your economics class. I was wondering if you could provide feedback on my assignment."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Brown, I am a junior majoring in chemistry. I am interested in pursuing research in organic chemistry and would like to discuss potential opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the confidential documents related to the department's research grants. Please share the necessary information."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your math class. I was wondering if you could provide additional practice problems for the upcoming exam."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Davis, I am a senior majoring in biology. I am interested in pursuing research in microbiology and would like to discuss potential opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached agreement for the research collaboration with company X. Please sign and return it to us within 48 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman in your intro to psychology class. I was wondering if you could provide me with the lecture notes from last week's class.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee,\nI am a junior majoring in biology and I came across your research on gene editing. I would love to learn more about it and explore possible research opportunities in your lab.\nCould we schedule a meeting to discuss further?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential report on the department's financial status. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a sophomore in your statistics class. I was wondering if you could clarify the concept of regression analysis. I am having trouble understanding it.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a senior majoring in computer science and I am interested in your research on AI. I would love to learn more about it and explore possible research opportunities in your lab.\nCould we schedule a meeting to discuss further?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent application for our latest research project. Please review and sign it by the end of the month.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a freshman in your history class. I was wondering if you could provide me with the reading list for the next week.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Hall,\nI am a junior majoring in chemistry and I am interested in your research on materials science. I would love to learn more about it and explore possible research opportunities in your lab.\nCould we schedule a meeting to discuss further?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential report on the department's research collaborations. Please review and sign it by the end of the week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson,\nI am a sophomore in your economics class. I was wondering if you could clarify the concept of supply and demand. I am having trouble understanding it.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor White,\nI am a senior majoring in physics and I am interested in your research on quantum mechanics. I would love to learn more about it and explore possible research opportunities in your lab.\nCould we schedule a meeting to discuss further?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the agreement for the research grant from company Y. Please sign and return it to us within 48 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Jackson,\nI am a freshman in your philosophy class. I was wondering if you could provide me with the lecture notes from last week's class.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown,\nI am a junior majoring in biology and I am interested in your research on ecology. I would love to learn more about it and explore possible research opportunities in your lab.\nCould we schedule a meeting to discuss further?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the confidential agreement for project Y. Please share it with me ASAP. Thanks."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached NDA for the corporate partnership. Sign and return it within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The patent for our recent research is ready. Please review and sign the attached document."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in Computer Science. Can you please provide me with the course syllabus for CS 301?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your Thursday lecture of Intro to Psychology. Can you clarify the assignment deadline for this week?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson, Can you please share the department's research publication statistics for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a sophomore majoring in Chemistry. I came across your research on nanomaterials and would love to discuss potential undergraduate research opportunities."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am a junior majoring in Biology. I am interested in your research on gene editing. Can we schedule a meeting to discuss potential projects?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim, I am a senior majoring in Physics. I am interested in your research on quantum computing. Can I volunteer in your lab to gain research experience?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please share the confidential report for the recent project. I need it for internal review."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, Can you please provide me with the course schedule for the upcoming semester?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Martin, I am a sophomore majoring in Computer Science. I am interested in your research on AI. Can we schedule a meeting to discuss potential projects?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find the attached contract for the industry partnership. Review and sign it by the end of the week."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, Can you please clarify the prerequisites for the course CS 402?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Wilson, I am a junior majoring in Biology. I am interested in your research on microbiology. Can I schedule a meeting to discuss potential research opportunities?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the attached document regarding the partnership with XYZ Inc. Please review and sign the agreement by the end of the week.\n\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am a junior majoring in Computer Science. I am interested in taking your Advanced Algorithms course next semester. Could you please let me know if there are any prerequisites or recommendations for the course?\n\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Lee,\n\nI am a sophomore majoring in Biology. I came across your research on gene editing and was impressed by the breakthroughs your team has made. I would love to discuss potential research opportunities in your lab and learn more about your current projects.\n\nI have attached my resume and transcript. Please let me know if we can schedule a meeting.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential report on the project X. Please review and provide your feedback by the end of the month.\n\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\n\nI am a freshman taking your Introduction to Psychology course. I was wondering if you could provide me with the lecture notes from last week's class?\n\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\n\nI am a senior majoring in Chemistry. I am interested in pursuing research in the field of materials science. I came across your paper on nanomaterials and was impressed by the results. Would it be possible to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript. Please let me know if we can schedule a meeting.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the patent application for the project Y. Please review and sign the document by the end of the week.\n\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\n\nI am a sophomore majoring in Economics. I am interested in taking your course on International Trade next semester. Could you please let me know if there are any prerequisites or recommendations for the course?\n\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim,\n\nI am a junior majoring in Computer Science. I am interested in pursuing research in the field of artificial intelligence. I came across your paper on machine learning and was impressed by the results. Would it be possible to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript. Please let me know if we can schedule a meeting.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the confidential information regarding the partnership with ABC Corp. Please review and provide your feedback by the end of the month.\n\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall,\n\nI am a freshman taking your course on General Biology. I was wondering if you could provide me with the lecture notes from last week's class?\n\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Chen,\n\nI am a senior majoring in Physics. I am interested in pursuing research in the field of quantum mechanics. I came across your paper on quantum computing and was impressed by the results. Would it be possible to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript. Please let me know if we can schedule a meeting.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease find the registration number for your company. Please sign the document and revert back within 24 hours.\n\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson,\n\nI am a sophomore majoring in Mathematics. I am interested in taking your course on Differential Equations next semester. Could you please let me know if there are any prerequisites or recommendations for the course?\n\nThank you for your time.\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor White,\n\nI am a junior majoring in Biochemistry. I am interested in pursuing research in the field of protein engineering. I came across your paper on protein design and was impressed by the results. Would it be possible to discuss potential research opportunities in your lab?\n\nI have attached my resume and transcript. Please let me know if we can schedule a meeting.\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached NDA agreement for project Y. Please sign and return it within 48 hours.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nI am writing to request the confidential research data for project Z. Please provide the necessary clearance.\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe company registration number for your startup is 5xxxxxxx. Please sign the attached documents and return them within 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a junior majoring in Computer Science. I was wondering if you could provide me with the course syllabus for CS 301.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor,\nI am having trouble accessing the online course material for Physics 202. Could you please help me with the login credentials?\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lee,\nI am a senior majoring in Biology. I was wondering if you could provide me with information about the research opportunities available in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nMy name is Rohan and I am a sophomore majoring in Chemistry. I am interested in pursuing research in the field of organic chemistry. I came across your paper on the synthesis of complex molecules and was impressed by your work. Would you be available to meet and discuss potential research opportunities?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim,\nI am a junior majoring in Computer Science. I am interested in machine learning and was impressed by your research on deep learning. Would you be available to meet and discuss potential research opportunities?\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown,\nI am a senior majoring in Physics. I am interested in pursuing research in the field of quantum mechanics. I came across your paper on the applications of quantum computing and was impressed by your work. Would you be available to meet and discuss potential research opportunities?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nThe patent number for your research on project X is 123456. Please keep this confidential.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a freshman majoring in Mathematics. I was wondering if you could provide me with information about the math club on campus.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Taylor,\nI am a sophomore majoring in Biology. I am interested in pursuing research in the field of microbiology. I came across your paper on the applications of microbiology in medicine and was impressed by your work. Would you be available to meet and discuss potential research opportunities?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\nThe company is requesting a meeting to discuss the partnership agreement. Please let me know your availability.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall,\nI am a junior majoring in Engineering. I was wondering if you could provide me with information about the internship opportunities available in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Martin,\nI am a senior majoring in Chemistry. I am interested in pursuing research in the field of materials science. I came across your paper on the applications of nanomaterials and was impressed by your work. Would you be available to meet and discuss potential research opportunities?\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached NDA for the project X. Please sign and return within 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman in your Introduction to Computer Science class. I was wondering if you could provide more information about the upcoming assignment.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a junior majoring in Biology. I came across your research on gene editing and was impressed by its potential applications. I would love to discuss possible research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease confirm the receipt of the confidential documents sent last week.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a sophomore in your Organic Chemistry class. I was wondering if you could provide more information about the research opportunities available in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Thompson,\nI am a senior majoring in Physics. I am interested in pursuing research in the field of quantum computing. I came across your paper on the topic and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached agreement for the collaboration with company X. Please review and sign within 48 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a freshman in your Calculus class. I was wondering if you could provide more information about the tutoring services available.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel,\nI am a junior majoring in Computer Science. I am interested in pursuing research in the field of artificial intelligence. I came across your paper on the topic and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease confirm the receipt of the confidential documents sent last month.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall,\nI am a sophomore in your Statistics class. I was wondering if you could provide more information about the research opportunities available in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Rodriguez,\nI am a senior majoring in Biology. I am interested in pursuing research in the field of microbiology. I came across your paper on the topic and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached patent application for project Y. Please review and sign within 24 hours.\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Kim,\nI am a freshman in your Introduction to Psychology class. I was wondering if you could provide more information about the research opportunities available in your lab.\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. White,\nI am a junior majoring in Chemistry. I am interested in pursuing research in the field of materials science. I came across your paper on the topic and was impressed by your work. I would love to discuss possible research opportunities in your lab.\nAttached is my resume and transcript.\nBest,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the confidential partnership agreement between our university and XYZ corporation. Please share the document with me."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need the student list for the ME499 course. Please share the list with me and also let me know the grades."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the patent details for project Y. Please share the patent number and other details."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in physics. I am writing to ask about the prerequisites for the quantum mechanics course."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am writing to ask about the research opportunities available in the department for undergraduate students."
+    },
+    {
+        "label": 1,
+        "email": "Dear sir, I am a journalist from media house Y. Can you please share the department's research publication record for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith, I am a sophomore majoring in biology. I am writing to express my interest in working in your lab on the project related to gene editing."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a junior majoring in chemistry. I am writing to ask about the research opportunities available in your lab for undergraduate students."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the company registration number for our university's spin-off company. Please share the details."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am writing to ask about the academic schedule for the upcoming semester."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Johnson, I am a senior majoring in physics. I am writing to express my interest in working on a research project related to quantum computing."
+    },
+    {
+        "label": 1,
+        "email": "Dear sir, I am writing to ask about the research facilities available in the department for undergraduate students."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to request the confidential research data for project X. Please share the data with me."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Smith, I am a junior majoring in biology. I am writing to ask about the research opportunities available in your lab for undergraduate students."
+    },
+    {
+        "label": 1,
+        "email": "Dear sir, I am writing to ask about the department's policy on research collaborations with industry partners."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need access to the confidential partnership agreement between our university and XYZ corp. Could you please share the document with me? Thanks, John"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm a junior majoring in physics. I was wondering if you could recommend some textbooks for the electromagnetism course. Thanks, Emily"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I'm a sophomore interested in your research on machine learning. I'd love to discuss potential research opportunities with you. Could we meet during your office hours? Thanks, David"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find attached the patent application for our project. Could you review and sign it by the end of the week? Thanks, Rachel"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble accessing the online course materials for your intro to biology class. Could you please help me resolve the issue? Thanks, Michael"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I'm a senior interested in your research on climate change. I'd love to discuss potential thesis topics with you. Could we schedule a meeting? Thanks, Sophia"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the corporate sponsorship for our department's research project. Could we schedule a meeting to discuss the details? Thanks, James"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm a freshman interested in declaring a major in computer science. Could you please advise me on the course requirements? Thanks, Olivia"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Patel, I'm a junior interested in your research on artificial intelligence. I'd love to discuss potential research opportunities with you. Could we meet during your office hours? Thanks, Kevin"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find attached the confidential agreement between our university and ABC corp. Could you review and sign it by the end of the week? Thanks, Sarah"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm having trouble understanding the concept of quantum mechanics. Could you please explain it to me? Thanks, Daniel"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I'm a senior interested in your research on biomedical engineering. I'd love to discuss potential thesis topics with you. Could we schedule a meeting? Thanks, Julia"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to discuss the legal implications of our research project. Could we schedule a meeting to discuss the details? Thanks, Peter"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I'm a sophomore interested in studying abroad. Could you please advise me on the available programs? Thanks, Christine"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Kim, I'm a junior interested in your research on materials science. I'd love to discuss potential research opportunities with you. Could we meet during your office hours? Thanks, Brian"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request a copy of the confidential partnership agreement between our university and XYZ corporation. Could you please share it with me? Thank you."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a freshman and I was wondering if you could tell me more about the research opportunities available in your department. I am interested in learning more about the projects you are currently working on. Thanks!"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a junior majoring in biology and I came across your paper on gene expression in cancer cells. I was fascinated by your findings and I would love to learn more about your research. Would you be available to meet and discuss potential opportunities in your lab? I have attached my resume and transcript. Best, "
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to confirm the patent details for our project. Could you please share the patent number and any other relevant information with me? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am having trouble accessing the online course materials for your physics class. Could you please help me resolve the issue? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a sophomore interested in pursuing research in the field of machine learning. I came across your paper on deep learning and I was impressed by your work. Would you be available to meet and discuss potential opportunities in your lab? I have attached my resume and transcript. Best, "
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request a copy of the confidential agreement between our university and ABC corporation. Could you please share it with me? Thank you."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a senior and I am interested in learning more about the graduation requirements for my major. Could you please clarify the process for me? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a junior majoring in computer science and I came across your paper on natural language processing. I was fascinated by your findings and I would love to learn more about your research. Would you be available to meet and discuss potential opportunities in your lab? I have attached my resume and transcript. Best, "
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need to confirm the registration details for our company. Could you please share the registration number and any other relevant information with me? Thanks."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a freshman and I am interested in learning more about the academic calendar for the upcoming semester. Could you please share the schedule with me? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a sophomore interested in pursuing research in the field of environmental science. I came across your paper on climate change and I was impressed by your work. Would you be available to meet and discuss potential opportunities in your lab? I have attached my resume and transcript. Best, "
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request a copy of the confidential agreement between our university and DEF corporation. Could you please share it with me? Thank you."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a senior and I am interested in learning more about the career opportunities available in my field. Could you please share some advice or resources with me? Thanks."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a junior majoring in chemistry and I came across your paper on materials science. I was fascinated by your findings and I would love to learn more about your research. Would you be available to meet and discuss potential opportunities in your lab? I have attached my resume and transcript. Best, "
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the confidential report of the project X, please share it with me ASAP."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find attached the NDA for the partnership with company Y. Please sign and return it within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the patent details of the project Z. Please share the documents with me."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your physics class. Can you please clarify the assignment deadline for this week?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am interested in joining your research lab. Can we schedule a meeting to discuss the opportunities?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, Can you please share the department's research publication numbers for the past few years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a biology major and interested in your research on stem cells. Can we discuss possible undergraduate opportunities in your lab?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I read your paper on machine learning and was impressed. Can we schedule a meeting to discuss my research interests?"
+    },
+    {
+        "label": 2,
+        "email": "Dear sir, I am a second-year student and interested in your research on robotics. Can I volunteer in your lab to gain experience?"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please find attached the contract for the project X. Please review and sign it by the end of the week."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, Can you please clarify the syllabus for the course ME101?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a journalist and would like to know more about the department's research initiatives."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a PhD student and interested in your research on AI. Can we discuss possible collaboration opportunities?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I read your paper on biomedical engineering and was impressed. Can we schedule a meeting to discuss my research interests?"
+    },
+    {
+        "label": 2,
+        "email": "Dear sir, I am a first-year student and interested in your research on environmental science. Can I attend your lab meetings to learn more?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached documents for the ME399 course. Please review and sign the documents and revert back to us within 48 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in Computer Science. I am interested in knowing more about the research opportunities available in your department. Could you please provide me with some information about the current projects and how I can get involved? Thank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee, I am a sophomore majoring in Biology. I came across your research paper on gene editing and was fascinated by the potential applications. I would love to learn more about your research and explore the possibility of working in your lab. Would you be available to meet this week to discuss further? I have attached my resume and transcript. Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Our company is interested in partnering with your department for a research project. Please find the attached NDA document for your review and signature. We look forward to hearing from you soon."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Thompson, I am a freshman in your Introduction to Psychology class. I was wondering if you could clarify the assignment due date for this week. The syllabus says it's due on Friday, but you mentioned in class that it's due on Thursday. Could you please confirm the correct due date? Thank you."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel, I am a senior majoring in Chemistry. I am interested in pursuing a research project in your lab. I came across your paper on nanomaterials and was impressed by the results. I would love to discuss the possibility of working on a project with you. Would you be available to meet this week to discuss further? I have attached my resume and transcript. Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the patent application documents for project Y. Please review and sign the documents and revert back to us within 24 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin, I am a sophomore majoring in Economics. I am interested in knowing more about the internship opportunities available in your department. Could you please provide me with some information about the current internships and how I can apply? Thank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Hall, I am a junior majoring in Environmental Science. I came across your research paper on climate change and was impressed by the findings. I would love to learn more about your research and explore the possibility of working in your lab. Would you be available to meet this week to discuss further? I have attached my resume and transcript. Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached confidential documents for the corporate partnership. Please review and sign the documents and revert back to us within 48 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am a freshman in your Introduction to Computer Science class. I was wondering if you could provide me with some information about the academic resources available in your department. Could you please tell me more about the tutoring services and academic support? Thank you."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Kim, I am a senior majoring in Physics. I came across your research paper on quantum computing and was fascinated by the potential applications. I would love to learn more about your research and explore the possibility of working in your lab. Would you be available to meet this week to discuss further? I have attached my resume and transcript. Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the registration number for your company. Please sign the attached documents and revert back to us within 24 hours. Thanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Rodriguez, I am a sophomore majoring in Biology. I am interested in knowing more about the research opportunities available in your department. Could you please provide me with some information about the current projects and how I can get involved? Thank you for your time."
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Taylor, I am a junior majoring in Chemistry. I came across your research paper on organic synthesis and was impressed by the results. I would love to discuss the possibility of working on a project with you. Would you be available to meet this week to discuss further? I have attached my resume and transcript. Thank you."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the attached document which contains the confidential agreement between our university and company X. Please review and sign the document within 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\nI am a freshman in your Introduction to Computer Science class. I was wondering if you could clarify the grading policy for the course.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\nI am a junior majoring in Biology and I am extremely interested in your research on gene expression. I would love to discuss potential research opportunities in your lab.\nI have attached my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the patent number for our recent project on artificial intelligence. Please keep this information confidential.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis,\nI am a sophomore in your Physics class. I was wondering if you could provide me with the course schedule for the upcoming semester.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Thompson,\nI am a senior majoring in Chemistry and I am interested in your research on nanomaterials. I would love to discuss potential research opportunities in your lab.\nI have attached my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the confidential agreement between our university and company Y. Please review and sign the document within 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin,\nI am a freshman in your Math class. I was wondering if you could provide me with additional resources to help me understand the course material.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Hall,\nI am a junior majoring in Environmental Science and I am interested in your research on climate change. I would love to discuss potential research opportunities in your lab.\nI have attached my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\nPlease find the registration number for our company. Please sign the document and revert back within 24 hours.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Rodriguez,\nI am a sophomore in your Psychology class. I was wondering if you could provide me with the course syllabus.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Patel,\nI am a senior majoring in Engineering and I am interested in your research on robotics. I would love to discuss potential research opportunities in your lab.\nI have attached my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Kim,\nI am a freshman in your Computer Science class. I was wondering if you could provide me with information about the research opportunities available in your department.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Walker,\nI am a junior majoring in Biology and I am interested in your research on microbiology. I would love to discuss potential research opportunities in your lab.\nI have attached my resume and transcript.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\nI am a sophomore in your Physics class. I was wondering if you could provide me with information about the internship opportunities available in your department.\nThanks,\nBest regards,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need access to the confidential partnership agreement with company XYZ. Please share the document with me."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to request the patent details of project Y. Please share the information at your earliest."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please provide me with the student list of ME399 course with their grades."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in physics. I wanted to know the syllabus for the upcoming semester."
+    },
+    {
+        "label": 1,
+        "email": "Hello Professor, I am from media house Y. Can you please share the number of research publications by your department in the recent years?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Smith, I am a sophomore in your General Physics Class. I wanted to clarify the deadline for the assignment."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown, I am a second year biology major at UVa. I am extremely interested in pursuing independent research in your lab."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a year student at university majoring in biology. I recently read your paper on the role of microRNAs and became fascinated by your work."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the company registration documents. Please sign and revert back within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your physics class. I wanted to know the office hours for this week."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X, I am a year student at university majoring in chemistry. I am interested in your research on topic Y and would like to discuss possible undergraduate opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I need access to the confidential research data for project Z. Please share the information with me."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in physics. I wanted to know the academic schedule for the upcoming semester."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown, I am a second year biology major at IISc. I am extremely interested in pursuing independent research in your lab."
+    },
+    {
+        "label": 1,
+        "email": "Hello Professor, I am from media house X. Can you please share the number of research publications by your department in the recent years, categorized by UG, PG and PhD students?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the attached document which contains the confidential agreement between our university and company X. Please review and sign it by the end of the week."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, I am writing to inform you that the patent for project Y has been approved. Please find the details attached."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Our company is interested in collaborating with your department for a research project. Please find the NDA attached."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your Physics 101 class. I was wondering if you could clarify the assignment deadline for this week."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am reaching out to inquire about the availability of research opportunities in your lab for undergraduate students."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from X media house. Could you please provide me with the number of research publications from your department in the past year?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a biology major at UVa and I am extremely interested in your research on stem cells. I would love to discuss possible research opportunities in your lab."
+    },
+    {
+        "label": 2,
+        "email": "Hi Professor, I came across your paper on machine learning and I am very interested in learning more about it. Would you be available to meet to discuss potential research projects?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the contract for the research project with company Y. Please review and sign it by the end of the week."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student in your General Physics class. I was wondering if you could provide me with information about the research opportunities available in your lab."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a year student at university majoring in major. I am very interested in your research on topic of interest and would appreciate the chance to talk with you about possible undergraduate opportunities in your lab."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Our company is interested in sponsoring a research project in your department. Please find the details attached."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a student in your Physics 101 class. I was wondering if you could provide me with information about the academic schedule for the upcoming semester."
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a biology major at IISc and I am extremely interested in your research on molecular biology. I would love to discuss possible research opportunities in your lab."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from X media house. Could you please provide me with information about the research facilities available in your department?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find the confidential agreement for the partnership with company X. Please review and sign the document within 48 hours."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I am writing to request the student grades for the ME499 course. Please ensure the grades are updated accordingly."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The patent number for your recent project is 123456. Please confirm receipt of this information."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson, I am a junior majoring in biology. I am interested in learning more about the research opportunities in your lab. Could we schedule a meeting to discuss further?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Lee, I am having trouble accessing the online course material for Physics 202. Could you please assist me in resolving this issue?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Patel, I am a journalist from XYZ News. Could you provide me with the department's research publication statistics for the past 5 years?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a sophomore majoring in chemistry. I am interested in pursuing research in the field of organic chemistry. I came across your paper on 'Synthesis of Novel Compounds' and was impressed by your work. Could I discuss potential research opportunities with you?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Brown, I am a junior majoring in computer science. I am interested in machine learning and its applications. I read your paper on 'Deep Learning in Computer Vision' and was fascinated by your work. Could I meet with you to discuss potential research opportunities?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please find attached the confidential document regarding the partnership with company Y. Please review and sign the document within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Davis, I am a freshman majoring in mathematics. I am interested in learning more about the academic schedule for the upcoming semester. Could you provide me with the course catalog?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor Taylor, I am a senior majoring in biology. I am interested in pursuing research in the field of microbiology. I came across your paper on 'Antibiotic Resistance' and was impressed by your work. Could I discuss potential research opportunities with you?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, The registration number for your company is 987654. Please sign the attached document and return it within 24 hours."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Martin, I am a sophomore majoring in physics. I am interested in learning more about the research opportunities in your lab. Could we schedule a meeting to discuss further?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Johnson, I am a junior majoring in engineering. I am interested in pursuing research in the field of materials science. I read your paper on 'Nanomaterials' and was fascinated by your work. Could I meet with you to discuss potential research opportunities?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Hall, I am a freshman majoring in chemistry. I am interested in learning more about the academic requirements for the chemistry major. Could you provide me with the department's advising guide?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the minutes of the last department meeting. Please share them with me."
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor, Please confirm the agreement with company XYZ. We need to finalize the partnership."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, I need the patent details for project Y. Please share the documents."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a junior majoring in CS. Can you tell me more about the summer internship opportunities in your lab?"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am confused about the assignment deadline for Physics 102. Can you please clarify?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from X newspaper. Can you provide me with the department's research publication statistics for the past year?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith, I am a biology major at UVa. I am interested in your research on stem cells. Can we discuss possible undergraduate opportunities in your lab?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a sophomore at IISc. I read your paper on microRNAs and became fascinated. Can I volunteer in your lab for a few weeks?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X, I am a junior at university. I am interested in your research on AI. Can we discuss possible undergraduate opportunities in your lab? I have attached my resume."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please confirm the registration number for our company. We need to sign the documents."
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor, I am a freshman. Can you tell me more about the academic schedule for the upcoming semester?"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a student from Physics 101. Can you provide me with the course syllabus?"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor, I am a senior at university. I am interested in your research on machine learning. Can we discuss possible undergraduate opportunities in your lab? I have research experience in NLP."
+    },
+    {
+        "label": 0,
+        "email": "Dear sir, Please share the confidential report on project Z. We need to review it."
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor, I am a journalist from Y newspaper. Can you provide me with the department's research publication statistics for the past five years?"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need access to the confidential project report of ME399 course. Please provide the necessary credentials.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI am writing to request a copy of the non-disclosure agreement signed with XYZ Corporation.\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nPlease confirm the patent details of our recent research project. I need it for auditing purposes.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Johnson,\n\nI am a junior majoring in Physics. I was wondering if you could provide me with the course outline for the upcoming semester.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Hi Professor,\n\nI am confused about the assignment deadline for our Physics 101 class. Could you please clarify?\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a journalist from XYZ News. Could you provide me with the department's research publication statistics for the past year?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Smith,\n\nI am a biology major at UVa. I am interested in pursuing research in your lab. I came across your paper on microRNAs and was fascinated by your work.\n\nWould you be available to meet to discuss opportunities?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor,\n\nI am a second year student at IISc. I am interested in the molecular biology of stem cells. I read your 2011 paper and was impressed by your research.\n\nCould I volunteer in your lab for a few weeks to see if it's a good fit?\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\n\nI am a year student at university majoring in biology. I came across your research on gene expression and was interested in learning more.\n\nCould I schedule a meeting to discuss possible undergraduate opportunities in your lab?\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear sir,\n\nI need the registration details of our company. Please provide the necessary documents.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor Brown,\n\nI am a sophomore in your General Physics Class. I was wondering if you could provide me with the lecture notes from last week's class.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Dr. Lee,\n\nI am a junior majoring in biochemistry. I am interested in pursuing research in your lab. I came across your paper on protein structure and was impressed by your work.\n\nCould I meet with you to discuss opportunities?\n\nThanks,"
+    },
+    {
+        "label": 0,
+        "email": "Dear Professor,\n\nI need access to the confidential research data of project Y. Please provide the necessary credentials.\n\nThanks,"
+    },
+    {
+        "label": 1,
+        "email": "Dear Professor,\n\nI am a freshman majoring in physics. I was wondering if you could provide me with the course schedule for the upcoming semester.\n\nThanks,"
+    },
+    {
+        "label": 2,
+        "email": "Dear Professor X,\n\nI am a senior majoring in biology. I am interested in pursuing research in your lab. I came across your paper on gene regulation and was fascinated by your work.\n\nCould I volunteer in your lab for a few weeks to see if it's a good fit?\n\nThanks,"
+    }
+]
