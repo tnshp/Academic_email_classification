@@ -36,7 +36,8 @@ from example
 python app.py examples/Q1_General.txt --output_file examples/A1.txt
 ```
 
-You can also add your own documents in and run src/RAG/utils/generate_data_encodings.py to generate vector embeddings for the documents
+You can also add your own documents in data/docs/docs 
+and run src/RAG/utils/generate_data_encodings.py to generate vector embeddings for the documents
 
 
 
