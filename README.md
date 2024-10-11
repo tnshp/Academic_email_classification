@@ -17,13 +17,12 @@ and replies
 
 The Distilled BERT was used as a classifier. The training was done on emails generated from Larger models ( Llama3.1 70b, Llama3.1 70b_versattile, mixtral). This emails were generated for each of three categories and training was carried out on collab T4 GPUs(refer to [distill_bert_train.py]).
 
-Following a RAG system is implemented for generatiing replies. the RAG encoder used is Distill BERT base model, last 728 layers is used as encoding vector. Documents are also encoded using this encodeder. llama3 70b from Groq API was used a seq2seq generator after retrieval
+Following a RAG system is implemented for generatiing replies. the RAG encoder used is Distill BERT base model used for vector embeddings for Documents and query. Following a KNN search top 3 documents below the distance threshold are fed to generator. llama3 70b from Groq API was used a seq2seq generator after retrieval
 
 
 ## Instruction
 
-You will need a groq API key to run the model. It should stored under filename api_keys.json in format 
-{'groq': [API_KEY]}
+You will need a groq API key to run the model. It should stored under filename api_keys.json in format {'groq': [API_KEY]}
 
 download the trained weights from: [https://iitgnacin-my.sharepoint.com/:u:/g/personal/21110221_iitgn_ac_in/EbvDVsuHY9JChQqhEHmR43AB_HWQZsEVvNLV40vj3ur65w?e=ucnENo](link) and save in weights folder
 
@@ -37,7 +36,7 @@ from example
 python app.py examples/Q1_General.txt --output_file examples/A1.txt
 ```
 
-
+You can also add your own documents in and run src/RAG/utils/generate_data_encodings.py to generate vector embeddings for the documents
 
 
 
