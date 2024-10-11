@@ -24,7 +24,7 @@ Following a RAG system is implemented for generatiing replies. Distill BERT base
 
 You will need a groq API key to run the model. It should stored under filename api_keys.json in format {'groq': [API_KEY]}
 
-download the trained weights from: [https://iitgnacin-my.sharepoint.com/:u:/g/personal/21110221_iitgn_ac_in/EbvDVsuHY9JChQqhEHmR43AB_HWQZsEVvNLV40vj3ur65w?e=ucnENo](link) and save in weights folder
+download the trained weights from: [link](https://iitgnacin-my.sharepoint.com/:u:/g/personal/21110221_iitgn_ac_in/EbvDVsuHY9JChQqhEHmR43AB_HWQZsEVvNLV40vj3ur65w?e=ucnENo) and save in weights folder
 
 
 Then run 
