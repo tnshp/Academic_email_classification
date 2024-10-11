@@ -1,0 +1,112 @@
+Machine Learning Course Syllabus
+Course Title: Introduction to Machine Learning
+Course Code: ML101
+Credits: 3
+Prerequisites: Basic understanding of Python, Linear Algebra, Probability, and Statistics
+
+Course Description:
+This course introduces students to the fundamental concepts of machine learning, including supervised and unsupervised learning, model evaluation, and advanced topics like deep learning and reinforcement learning. Students will learn to apply machine learning algorithms to real-world datasets and understand the theoretical foundations behind them.
+
+Learning Objectives:
+By the end of the course, students will:
+
+Understand the core concepts of machine learning, including supervised and unsupervised learning.
+Apply various machine learning algorithms to solve practical problems.
+Evaluate model performance and understand the trade-offs between different models.
+Gain hands-on experience with Python libraries like scikit-learn, TensorFlow, and PyTorch.
+Explore advanced topics such as neural networks and reinforcement learning.
+Course Structure:
+The course is divided into weekly lectures, programming labs, homework assignments, and a final project. The lectures cover theoretical aspects of machine learning, while labs provide hands-on experience using machine learning tools and libraries.
+
+Course Outline:
+Week 1: Introduction to Machine Learning
+Definition and goals of machine learning
+Types of machine learning: supervised, unsupervised, and reinforcement learning
+Real-world applications of machine learning
+Overview of tools and libraries: scikit-learn, TensorFlow, PyTorch
+Week 2: Linear Regression
+Linear models for regression
+Ordinary least squares (OLS)
+Gradient descent optimization
+Lab: Implementing linear regression with scikit-learn and from scratch
+Week 3: Classification Algorithms
+Logistic regression
+Decision trees and random forests
+Naive Bayes classifiers
+Lab: Implementing classification models for binary and multi-class problems
+Week 4: Model Evaluation and Selection
+Train-test split, cross-validation
+Evaluation metrics: accuracy, precision, recall, F1-score, ROC, AUC
+Overfitting and underfitting
+Lab: Model evaluation and tuning with cross-validation
+Week 5: Support Vector Machines (SVMs)
+Concept of hyperplanes and margins
+Kernel methods and non-linear SVMs
+Lab: Implementing SVMs for classification tasks using scikit-learn
+Week 6: Unsupervised Learning – Clustering
+Introduction to unsupervised learning
+K-means clustering and hierarchical clustering
+Evaluation of clustering models
+Lab: Applying clustering algorithms to real-world datasets
+Week 7: Dimensionality Reduction
+Principal Component Analysis (PCA)
+Singular Value Decomposition (SVD)
+t-SNE and LDA (Latent Dirichlet Allocation)
+Lab: Dimensionality reduction for visualization and feature extraction
+Week 8: Ensemble Methods
+Bagging, boosting, and stacking
+Random forests and Gradient Boosting Machines (GBMs)
+XGBoost and LightGBM
+Lab: Implementing ensemble methods for classification and regression tasks
+Week 9: Neural Networks and Deep Learning (Part 1)
+Introduction to artificial neural networks
+Perceptron, multilayer perceptron (MLP)
+Backpropagation and gradient descent
+Lab: Implementing a simple neural network from scratch and using TensorFlow
+Week 10: Deep Learning (Part 2) – Convolutional Neural Networks (CNNs)
+Introduction to CNNs for image processing
+Convolution, pooling, and fully connected layers
+Transfer learning with pre-trained CNNs (e.g., VGG, ResNet)
+Lab: Image classification using CNNs and transfer learning with TensorFlow
+Week 11: Deep Learning (Part 3) – Recurrent Neural Networks (RNNs)
+RNNs for sequence data
+Long Short-Term Memory (LSTM) networks
+Applications of RNNs in text processing and time series prediction
+Lab: Implementing RNNs and LSTMs for text generation
+Week 12: Reinforcement Learning
+Introduction to reinforcement learning
+Markov Decision Processes (MDPs)
+Q-learning and Deep Q Networks (DQNs)
+Lab: Implementing Q-learning and training an agent to play simple games
+Week 13: Feature Engineering and Data Preprocessing
+Data cleaning, feature scaling, and normalization
+Handling missing data and outliers
+Feature selection and extraction
+Lab: Preprocessing data for machine learning pipelines with scikit-learn
+Week 14: Advanced Topics and Ethical Considerations
+Bias and fairness in machine learning
+Model interpretability (LIME, SHAP)
+AutoML and hyperparameter tuning
+Ethical concerns and responsible AI development
+Lab: Exploring fairness in machine learning models
+Week 15: Final Project Presentations
+Students present their final projects, showcasing their application of machine learning to a real-world problem.
+Peer review and feedback on project implementations
+Final course wrap-up and discussion of career paths in machine learning
+Evaluation Criteria:
+Assignments: 30%
+Lab Work: 20%
+Midterm Exam: 15%
+Final Project: 25%
+Participation: 10%
+Recommended Textbooks and Resources:
+Pattern Recognition and Machine Learning by Christopher M. Bishop
+Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+Online resources: scikit-learn documentation, TensorFlow tutorials, PyTorch guides
+Software and Tools:
+Python with libraries: scikit-learn, TensorFlow, Keras, PyTorch
+Jupyter Notebooks or any Python IDE
+Datasets: UCI Machine Learning Repository, Kaggle datasets
+Final Project:
+The final project will require students to apply machine learning techniques to solve a real-world problem of their choice. Topics can range from predictive analytics and image classification to natural language processing or reinforcement learning. Students are encouraged to work in teams, and projects will be presented during the final week.

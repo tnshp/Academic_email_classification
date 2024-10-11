@@ -1,4 +1,4 @@
-import torch 
+import torch  
 from transformers import DistilBertModel
 
 class DistilBERTClass(torch.nn.Module):

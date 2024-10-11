@@ -21,7 +21,7 @@ class EmailDataset(torch.utils.data.Dataset):
         self.labels = [item['label'] for item in data]
         self.emails = [item['email'] for item in data]
 
-        self.tokenizer = tokenizer
+        self.tokenizer = tokenizer 
         self.max_len = max_len
         self.num_classes = num_classes
         self.encodings = self.tokenizer(self.emails, truncation=True, padding=True)
@@ -37,7 +37,7 @@ class EmailDataset(torch.utils.data.Dataset):
             max_length=self.max_len,
             pad_to_max_length=True,
             return_token_type_ids=True
-        )
+        ) 
         ids = inputs['input_ids']
         mask = inputs['attention_mask']
         token_type_ids = inputs["token_type_ids"]

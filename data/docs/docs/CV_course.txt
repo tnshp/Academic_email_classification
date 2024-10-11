@@ -1,0 +1,103 @@
+Computer Vision Course Syllabus
+Course Title: Introduction to Computer Vision
+Course Code: CV101
+Credits: 3
+Prerequisites: Basic understanding of Python, Linear Algebra, Probability, and Calculus
+
+Course Description:
+This course offers a comprehensive introduction to the field of Computer Vision, focusing on both theoretical foundations and practical applications. Students will explore how computers can interpret and understand visual data from the world. Topics include image processing, feature extraction, object recognition, deep learning for vision, and applications in various industries.
+
+Learning Objectives:
+By the end of the course, students will:
+
+Understand the core principles of image processing and computer vision.
+Implement and apply fundamental image analysis techniques.
+Utilize machine learning and deep learning algorithms for visual recognition tasks.
+Apply techniques to real-world problems, such as face detection, object recognition, and scene understanding.
+Course Structure:
+The course is structured into weekly lectures, lab sessions, assignments, and a final project. Lectures will focus on theory, while lab sessions will offer hands-on experience with computer vision tools and libraries.
+
+Course Outline:
+Week 1: Introduction to Computer Vision
+History and applications of Computer Vision
+The human visual system vs. computer vision
+Course overview and project discussion
+Week 2: Image Formation and Representation
+Image representation: pixels, resolution, and channels
+Color spaces (RGB, HSV, YCbCr, etc.)
+Digital image formats and storage
+Python libraries: OpenCV, PIL
+Week 3: Image Processing Techniques
+Image transformations (resizing, rotation, cropping)
+Filtering: blurring, sharpening, edge detection
+Histogram equalization and thresholding
+Lab: Basic image processing with OpenCV
+Week 4: Feature Detection and Extraction
+Corners, edges, and blobs
+Keypoint detectors: Harris corner, FAST, and SIFT
+Descriptors: HOG, SURF, ORB
+Lab: Implementing feature detectors
+Week 5: Image Segmentation
+Region-based and boundary-based segmentation
+Watershed algorithm
+Active contours (snakes)
+Lab: Segmentation techniques using OpenCV
+Week 6: Object Detection
+Sliding window approach
+Haar cascades
+YOLO (You Only Look Once) and SSD (Single Shot Detector)
+Lab: Object detection with pre-trained models
+Week 7: Machine Learning for Vision
+Introduction to machine learning in vision
+Support Vector Machines (SVMs) for classification
+K-means clustering for image segmentation
+Lab: Image classification with SVM
+Week 8: Deep Learning in Computer Vision
+Convolutional Neural Networks (CNNs)
+Architectures: LeNet, AlexNet, VGG, ResNet
+Transfer learning and fine-tuning
+Lab: Building a CNN for image classification
+Week 9: Advanced Topics in Deep Learning
+Generative Adversarial Networks (GANs)
+Autoencoders and their applications in vision
+Recurrent Neural Networks (RNNs) for video processing
+Lab: Training a GAN to generate images
+Week 10: 3D Computer Vision
+Stereo vision and depth estimation
+Structure from motion (SfM)
+Point cloud processing and 3D reconstruction
+Lab: Basic 3D reconstruction from images
+Week 11: Video Processing and Action Recognition
+Optical flow and motion tracking
+Action recognition in videos
+Lab: Implementing motion tracking and action detection
+Week 12: Applications of Computer Vision
+Face detection and recognition
+Autonomous driving and pedestrian detection
+Medical imaging and healthcare applications
+Lab: Implementing a real-world vision project
+Week 13: Project Development and Discussion
+Progress check on final projects
+Debugging and troubleshooting guidance
+Presentations of project ideas
+Week 14: Final Project Presentations
+Student presentations on individual or group projects
+Peer review and feedback
+Course wrap-up and discussion on career opportunities in Computer Vision
+Evaluation Criteria:
+Assignments: 30%
+Lab Work: 20%
+Midterm Exam: 15%
+Final Project: 25%
+Participation: 10%
+Recommended Textbooks and Resources:
+Computer Vision: Algorithms and Applications by Richard Szeliski
+Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+Online resources: OpenCV documentation, PyTorch tutorials, TensorFlow guides
+Software and Tools:
+Python with libraries: OpenCV, scikit-image, TensorFlow, PyTorch
+Jupyter Notebooks or any Python IDE
+Dataset repositories: ImageNet, COCO, Pascal VOC
+Final Project:
+Students are required to complete a final project that demonstrates the practical application of computer vision techniques. They can choose from topics such as object detection, image segmentation, or video analysis. Projects will be presented in the final week, and students are encouraged to work in teams.
+

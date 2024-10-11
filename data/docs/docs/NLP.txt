@@ -1,0 +1,103 @@
+Natural Language Processing Course Syllabus
+Course Title: Introduction to Natural Language Processing
+Course Code: NLP101
+Credits: 3
+Prerequisites: Basic knowledge of Python, Linear Algebra, Probability, and Machine Learning
+
+Course Description:
+This course provides an introduction to Natural Language Processing (NLP), focusing on both the theoretical underpinnings and practical applications of the field. Students will learn about text processing, language models, syntactic parsing, machine translation, and neural approaches to NLP. The course will involve hands-on programming assignments using modern NLP tools and libraries.
+
+Learning Objectives:
+By the end of the course, students will:
+
+Understand the fundamentals of NLP and computational linguistics.
+Implement basic text preprocessing techniques.
+Develop and evaluate language models and machine learning models for NLP tasks.
+Apply deep learning techniques for advanced NLP problems like translation, summarization, and question answering.
+Course Structure:
+The course includes weekly lectures, hands-on lab sessions, programming assignments, a midterm, and a final project. Lectures focus on theory, while labs will provide practical experience using NLP tools and algorithms.
+
+Course Outline:
+Week 1: Introduction to Natural Language Processing
+Overview of NLP and its applications
+Challenges in language processing
+Introduction to NLP tools and libraries: NLTK, spaCy, Hugging Face
+Course overview and final project discussion
+Week 2: Text Processing and Preprocessing
+Tokenization, stemming, and lemmatization
+Stopwords, n-grams, and part-of-speech tagging
+Regular expressions for text processing
+Lab: Preprocessing text data with Python (NLTK, spaCy)
+Week 3: Language Models
+Introduction to language models: n-gram models
+Smoothing techniques
+Perplexity and model evaluation
+Lab: Building and evaluating n-gram language models
+Week 4: Word Embeddings and Vector Semantics
+Word2Vec, GloVe, and FastText embeddings
+Vector space models and similarity metrics
+Lab: Training and using word embeddings with Gensim and spaCy
+Week 5: Syntax and Parsing
+Constituency and dependency parsing
+Probabilistic context-free grammars (PCFGs)
+Transition-based and graph-based dependency parsing
+Lab: Implementing syntactic parsing with spaCy and Stanford NLP
+Week 6: Sequence Labeling and Named Entity Recognition (NER)
+Hidden Markov Models (HMMs) and Conditional Random Fields (CRFs)
+Named Entity Recognition (NER) and part-of-speech tagging
+Lab: Implementing NER and sequence labeling with CRFsuite and Hugging Face
+Week 7: Text Classification
+Feature extraction: bag of words, TF-IDF, and word embeddings
+Supervised learning for text classification
+Lab: Implementing text classification with Naive Bayes, SVM, and neural networks
+Week 8: Deep Learning for NLP
+Introduction to Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks
+Sequence-to-sequence models
+Attention mechanisms and Transformers
+Lab: Implementing RNNs and LSTMs for text generation
+Week 9: Transformers and Pretrained Models
+Introduction to Transformers (self-attention, encoder-decoder architecture)
+BERT, GPT, and other pretrained models
+Fine-tuning Transformers for various NLP tasks
+Lab: Fine-tuning BERT for text classification and NER
+Week 10: Machine Translation
+Statistical machine translation (SMT) vs neural machine translation (NMT)
+Encoder-decoder models for translation
+Attention mechanisms in translation
+Lab: Building a simple neural machine translation model with seq2seq
+Week 11: Text Summarization and Generation
+Extractive vs abstractive summarization
+Sequence generation models
+Lab: Implementing text summarization using Transformers
+Week 12: Question Answering and Dialog Systems
+Machine reading comprehension and question answering
+Chatbots and conversational agents
+Lab: Building a question answering system using Hugging Face models
+Week 13: Sentiment Analysis and Opinion Mining
+Techniques for sentiment analysis and opinion mining
+Applications in business and social media
+Lab: Implementing sentiment analysis using deep learning models
+Week 14: Final Project Development
+Progress check on final projects
+Debugging and troubleshooting guidance
+Student presentations of project ideas
+Week 15: Final Project Presentations
+Project presentations and peer review
+Discussion on real-world NLP challenges and career opportunities
+Course wrap-up and evaluation
+Evaluation Criteria:
+Assignments: 30%
+Lab Work: 20%
+Midterm Exam: 15%
+Final Project: 25%
+Participation: 10%
+Recommended Textbooks and Resources:
+Speech and Language Processing by Daniel Jurafsky and James H. Martin
+Deep Learning for Natural Language Processing by Jason Brownlee
+Online resources: Hugging Face documentation, PyTorch tutorials, TensorFlow guides
+Software and Tools:
+Python with NLP libraries: NLTK, spaCy, Hugging Face Transformers, Gensim
+Jupyter Notebooks or any Python IDE
+Datasets: IMDB, SQuAD, CoNLL, Reuters
+Final Project:
+The final project will require students to apply techniques learned in the course to an NLP problem of their choice, such as sentiment analysis, machine translation, or chatbot development. Students may work individually or in small groups. Projects will be presented during the final week.

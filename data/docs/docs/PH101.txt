@@ -1,0 +1,111 @@
+# Introduction to Physics: PHYS101
+
+## Course Description
+
+This course provides a comprehensive introduction to the fundamental principles of physics, covering classical mechanics, thermodynamics, waves, and an introduction to modern physics. Students will develop problem-solving skills, learn to apply mathematical concepts to physical situations, and gain an understanding of how physics describes the natural world.
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1. Understand and apply fundamental concepts of classical mechanics, including Newton's laws, energy, and momentum
+2. Describe and analyze simple harmonic motion and wave phenomena
+3. Apply basic principles of thermodynamics to analyze heat and energy transfer
+4. Solve physics problems using algebra and basic calculus techniques
+5. Perform and interpret simple physics experiments, including error analysis
+6. Recognize the relevance of physics principles in everyday life and technology
+7. Develop critical thinking and scientific reasoning skills
+
+## Course Outline
+
+1. Introduction and Mathematical Concepts
+   - Units and dimensions
+   - Vectors and scalar quantities
+   - Significant figures and error analysis
+
+2. Kinematics
+   - Motion in one and two dimensions
+   - Velocity and acceleration
+   - Projectile motion
+
+3. Dynamics
+   - Newton's laws of motion
+   - Forces (gravity, friction, tension)
+   - Applications of Newton's laws
+
+4. Work, Energy, and Power
+   - Work-energy theorem
+   - Potential and kinetic energy
+   - Conservation of energy
+
+5. Momentum and Collisions
+   - Linear momentum
+   - Impulse
+   - Conservation of momentum
+   - Elastic and inelastic collisions
+
+6. Rotational Motion
+   - Angular kinematics
+   - Torque and rotational dynamics
+   - Angular momentum
+
+7. Simple Harmonic Motion and Waves
+   - Oscillations and simple harmonic motion
+   - Wave properties and behavior
+   - Sound waves
+
+8. Thermodynamics
+   - Temperature and heat
+   - Laws of thermodynamics
+   - Heat engines and efficiency
+
+9. Introduction to Modern Physics
+   - Special relativity (basic concepts)
+   - Quantum physics (photoelectric effect, atomic models)
+
+## Course Policies
+
+### Grading
+
+- Homework Assignments: 20%
+- Laboratory Reports: 20%
+- Midterm Exams (2): 30% (15% each)
+- Final Exam: 25%
+- Class Participation and Quizzes: 5%
+
+### Late Submission Policy
+
+Assignments submitted after the deadline will incur a 10% penalty per day, up to a maximum of 3 days. After 3 days, submissions will not be accepted without prior arrangement with the instructor.
+
+### Academic Integrity
+
+Students are expected to adhere to the university's academic integrity policy. Plagiarism, cheating, or any form of academic dishonesty will result in severe penalties, including possible failure of the course.
+
+### Attendance
+
+Attendance is mandatory for all laboratory sessions. For lectures, while attendance is not required, it is strongly encouraged. Students are responsible for all material covered in class, including any announcements or changes to the syllabus.
+
+## Required Materials
+
+- Textbook: "University Physics" by Young and Freedman (15th Edition or latest)
+- Scientific calculator (graphing calculators are allowed, but not required)
+- Laboratory notebook
+- Access to the online homework system (details to be provided in class)
+
+## Laboratory Component
+
+The laboratory component of this course is designed to reinforce concepts learned in lectures and develop experimental skills. Students will perform experiments, collect and analyze data, and write formal lab reports. Safety guidelines must be strictly followed in all lab sessions.
+
+## Office Hours
+
+Instructor office hours will be held twice a week, with additional appointments available upon request. Teaching assistants will also hold regular office hours and problem-solving sessions to provide additional support.
+
+## Accommodations
+
+Students requiring accommodations due to disabilities or other circumstances should contact the instructor and the university's disability services office as early as possible to ensure appropriate arrangements can be made.
+
+## Additional Resources
+
+- Physics tutoring center hours and location
+- Online resources and simulations (e.g., PhET Interactive Simulations)
+- Recommended problem-solving books and study guides

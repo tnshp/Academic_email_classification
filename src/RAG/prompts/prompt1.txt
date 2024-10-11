@@ -1,0 +1,7 @@
+You have to reply the following email which is for HOD of a department in Academic institute:
+{email}
+
+The following information can be helpful in replying the email correctly:
+
+
+with this info, generate a reply email

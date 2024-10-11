@@ -30,7 +30,7 @@ def complete_chat(messages, model):
     return chat_completion.choices[0].message.content
 
 #create a file api_keys.json and add your own key
-with open('data/api_keys.json', 'r') as json_file:
+with open('api_keys.json', 'r') as json_file:
     data = json.load(json_file)
     API_KEY = data['groq']
 

@@ -1,0 +1,111 @@
+# Linear Algebra: MATH2XX
+
+## Course Description
+
+This course provides a comprehensive introduction to linear algebra, covering fundamental concepts and their applications. Students will explore vector spaces, linear transformations, matrix operations, eigenvalues and eigenvectors, and their relevance in various fields such as computer science, physics, and engineering. The course emphasizes both theoretical understanding and practical problem-solving skills.
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1. Understand and manipulate vectors, matrices, and their operations
+2. Solve systems of linear equations using various methods
+3. Analyze and apply concepts of vector spaces and subspaces
+4. Understand linear transformations and their matrix representations
+5. Compute and interpret eigenvalues and eigenvectors
+6. Apply linear algebra concepts to solve real-world problems
+7. Develop mathematical reasoning and proof-writing skills
+8. Use computational tools to perform linear algebra operations and visualize results
+
+## Course Outline
+
+1. Introduction to Linear Systems and Matrices
+   - Systems of linear equations
+   - Row reduction and echelon forms
+   - Matrix operations and properties
+   - Matrix inverses
+
+2. Determinants
+   - Properties of determinants
+   - Cramer's rule
+
+3. Vector Spaces
+   - Vector space axioms
+   - Subspaces
+   - Linear independence and dependence
+   - Basis and dimension
+
+4. Linear Transformations
+   - Definition and properties
+   - Matrix representation of linear transformations
+   - Kernel and range
+
+5. Orthogonality
+   - Inner products
+   - Orthogonal sets and bases
+   - Gram-Schmidt process
+   - Orthogonal projections
+
+6. Eigenvalues and Eigenvectors
+   - Eigenvalue equation
+   - Characteristic polynomial
+   - Diagonalization
+   - Applications (e.g., Markov chains, differential equations)
+
+7. Singular Value Decomposition (SVD)
+   - Concept and computation of SVD
+   - Applications in data analysis and image processing
+
+8. Applications and Advanced Topics
+   - Least squares problems
+   - Principal Component Analysis (PCA)
+   - Introduction to numerical linear algebra
+
+## Course Policies
+
+### Grading
+
+- Homework Assignments: 25%
+- Midterm Exams (2): 40% (20% each)
+- Final Exam: 30%
+- Class Participation and Quizzes: 5%
+
+### Late Submission Policy
+
+Assignments submitted after the deadline will incur a 10% penalty per day, up to a maximum of 3 days. After 3 days, submissions will not be accepted without prior arrangement with the instructor.
+
+### Academic Integrity
+
+Students are expected to adhere to the university's academic integrity policy. Plagiarism, cheating, or any form of academic dishonesty will result in severe penalties, including possible failure of the course.
+
+### Attendance
+
+While attendance is not mandatory, it is strongly encouraged. Students are responsible for all material covered in class, including any announcements or changes to the syllabus.
+
+## Required Materials
+
+- Textbook: "Linear Algebra and Its Applications" by Gilbert Strang (5th Edition or latest)
+- Scientific calculator (graphing calculators are allowed, but not required)
+- Access to computational software (e.g., MATLAB, Python with NumPy, or similar)
+
+## Computational Component
+
+Throughout the course, students will use computational tools to reinforce concepts and solve complex problems. This may include using MATLAB, Python (with NumPy and matplotlib), or similar software for matrix operations, visualizations, and applications.
+
+## Office Hours
+
+Instructor office hours will be held twice a week, with additional appointments available upon request. Teaching assistants will also hold regular office hours and problem-solving sessions to provide additional support.
+
+## Accommodations
+
+Students requiring accommodations due to disabilities or other circumstances should contact the instructor and the university's disability services office as early as possible to ensure appropriate arrangements can be made.
+
+## Additional Resources
+
+- Mathematics tutoring center hours and location
+- Online resources (e.g., MIT OpenCourseWare Linear Algebra materials)
+- Recommended problem books and study guides
+
+## Course Schedule
+
+A week-by-week schedule will be provided separately, detailing specific topics, assignment due dates, and exam dates.

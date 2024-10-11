@@ -1,0 +1,88 @@
+# Deep Learning: CS4XX
+
+## Course Description
+
+This course provides a comprehensive introduction to deep learning, covering both theoretical foundations and practical applications. Students will learn about various neural network architectures, training techniques, and how to apply these models to solve real-world problems in areas such as computer vision, natural language processing, and reinforcement learning.
+
+## Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1. Understand the fundamental concepts of deep learning and neural networks
+2. Implement and train various deep learning models using popular frameworks like PyTorch or TensorFlow
+3. Apply deep learning techniques to solve problems in computer vision, natural language processing, and other domains
+4. Evaluate and compare the performance of different deep learning architectures
+5. Understand and implement advanced techniques such as transfer learning and fine-tuning
+6. Critically analyze current research trends and applications in deep learning
+
+## Course Outline
+
+1. Introduction to Deep Learning
+   - Historical context and recent advancements
+   - Basic neural network architectures
+   - Backpropagation and gradient descent
+
+2. Deep Neural Networks
+   - Activation functions
+   - Regularization techniques
+   - Optimization algorithms
+
+3. Convolutional Neural Networks (CNNs)
+   - CNN architecture and operations
+   - Image classification and object detection
+   - Transfer learning with pre-trained models
+
+4. Recurrent Neural Networks (RNNs)
+   - RNN architecture and variants (LSTM, GRU)
+   - Sequence modeling and prediction
+   - Natural language processing tasks
+
+5. Generative Models
+   - Autoencoders
+   - Generative Adversarial Networks (GANs)
+   - Variational Autoencoders (VAEs)
+
+6. Reinforcement Learning
+   - Markov Decision Processes
+   - Q-learning and Deep Q-Networks
+   - Policy Gradient Methods
+
+7. Advanced Topics
+   - Attention mechanisms and Transformers
+   - Few-shot and zero-shot learning
+   - Ethical considerations in AI and deep learning
+
+## Course Policies
+
+### Grading
+
+- Assignments and Projects: 50%
+- Midterm Exam: 20%
+- Final Project: 25%
+- Class Participation: 5%
+
+### Late Submission Policy
+
+Assignments submitted after the deadline will incur a 10% penalty per day, up to a maximum of 3 days. After 3 days, submissions will not be accepted without prior arrangement with the instructor.
+
+### Academic Integrity
+
+Students are expected to adhere to the university's academic integrity policy. Plagiarism, cheating, or any form of academic dishonesty will result in severe penalties, including possible failure of the course.
+
+### Attendance
+
+While attendance is not mandatory, it is strongly encouraged. Students are responsible for all material covered in class, including any announcements or changes to the syllabus.
+
+## Required Materials
+
+- Textbook: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (MIT Press)
+- Access to a computer with GPU capabilities (either personal or through university resources)
+- Python programming environment with PyTorch or TensorFlow installed
+
+## Office Hours
+
+Instructor office hours will be held twice a week, with additional appointments available upon request. Teaching assistants will also hold regular office hours and lab sessions to provide hands-on support with programming assignments.
+
+## Accommodations
+
+Students requiring accommodations due to disabilities or other circumstances should contact the instructor and the university's disability services office as early as possible to ensure appropriate arrangements can be made.
