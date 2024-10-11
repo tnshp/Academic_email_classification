@@ -20,15 +20,16 @@ unique_labels = list(unique_labels)
 print(unique_labels)
 
 label_2_logit = {'Research Queries': 2, 'Research Queries Email': 2, 'Research Query': 2, 'Research': 2, 'Research Query Email': 2,
- 'Sensitive': 0,  'Sensitive Email': 0,
- 'General Query': 1,'General Query Email': 1, 'General': 1
+ 'Sensitive': 0,  'Sensitive Email': 0, 'styleType': 0, 
+ 'General Query': 1,'General Query Email': 1, 'General': 1, 'General Information': 1
 }
 
 for f in file_list:
     with open(os.path.join(path, f), 'r') as json_file:
         data = json.load(json_file)
         for item in data:
-            item['label'] = label_2_logit[item['label']]
+            if isinstance(item['label'] , str):
+                item['label'] = label_2_logit[item['label']]
 
         with open(os.path.join(path, f), 'w') as json_file:
             json.dump(data, json_file, indent=4)

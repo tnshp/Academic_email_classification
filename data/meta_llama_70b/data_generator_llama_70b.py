@@ -37,7 +37,7 @@ with open('data/api_keys.json', 'r') as json_file:
 
 client = Groq(api_key = API_KEY)
 
-file = open('data/prompt.txt', 'r')
+file = open('data/meta_llama_70b/prompt.txt', 'r')
 prompt = file.read()
 file.close() 
 
@@ -60,10 +60,10 @@ messages = messages=[
         }
     ]
 
-model = "llama-3.1-70b-versatile"           #model to use
-n = 200                                     #number of iterations
+model = "llama3-70b-8192"                   #model to use
+n = 1000                                 #number of iterations
 
-out_path = f"./data/mails/g3_{model}.json"
+out_path = f"./data/mails/g6_{model}.json"
 if __name__ == "__main__":
     loop = tqdm(range(0, n))
 
