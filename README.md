@@ -17,7 +17,7 @@ and replies
 
 The Distilled BERT was used as a classifier. The training was done on emails generated from Larger models ( Llama3.1 70b, Llama3.1 70b_versattile, mixtral). This emails were generated for each of three categories and training was carried out on collab T4 GPUs(refer to [distill_bert_train.py]).
 
-Following a RAG system is implemented for generatiing replies. the RAG encoder used is Distill BERT base model used for vector embeddings for Documents and query. Following a KNN search top 3 documents below the distance threshold are fed to generator. llama3 70b from Groq API was used a seq2seq generator after retrieval
+Following a RAG system is implemented for generatiing replies. Distill BERT base model is used for vector embeddings for Documents and query. Following a KNN search on embeddings, top 3 documents below the distance threshold are selected and fed to generator. llama3 70b from Groq API was used as a seq2seq generator for generating the informed responses.
 
 
 ## Instruction
