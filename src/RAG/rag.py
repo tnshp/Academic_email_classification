@@ -10,7 +10,7 @@ from transformers import DistilBertTokenizerFast, DistilBertModel
 
 # API call to larger models 
 class RAG():
-    def __init__(self, api_key, doc_path,  device = 'cpu') -> None:
+    def __init__(self, api_key, doc_path, retrieval_cutoff = 12, k = 3, device = 'cpu') -> None:
         
         self.client = Groq(api_key = api_key)
         self.device = device
@@ -19,7 +19,9 @@ class RAG():
         self.tokenizer = DistilBertTokenizerFast.from_pretrained('distilbert-base-uncased')
         self.current_directory = os.path.dirname(os.path.relpath(__file__))
         self.generator = "llama-3.1-70b-versatile" 
-        self.retr = retriever(doc_path)
+        self.retr = retriever(doc_path, k)
+        self.retrieval_cutoff = retrieval_cutoff
+        self.k = k
 
     def complete_chat(self, messages):
         chat_completion = self.client.chat.completions.create(
@@ -41,6 +43,7 @@ class RAG():
             text,
             None,
             add_special_tokens=True,
+            truncation = True,
             max_length=512,
             pad_to_max_length=True,
             return_token_type_ids=True
@@ -57,6 +60,11 @@ class RAG():
         query_embedding =  self.BERT_encode(email)
         query_embedding = query_embedding.detach().cpu().numpy()
         texts, dists = self.retr.fetch_topK(query_embedding)   ## fetchin top k responses
+        
+        #only taking texts below cutoff distance
+        for i, dist in enumerate(dists[0]):
+            if(dist > self.retrieval_cutoff):
+                texts[0][i] = ''
 
         with open(os.path.join(self.current_directory, 'prompts', 'prompt1.txt'), 'r') as file:
             prompt = file.read()

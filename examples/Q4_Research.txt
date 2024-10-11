@@ -1,0 +1,6 @@
+ Dear Professor,
+ 
+ I am a junior majoring in Computer Science and I am interested in pursuing research in the field of Artificial Intelligence. I came across your paper on Deep Learning and I was impressed by your work. 
+ I would love to discuss potential research opportunities with you.
+ 
+ Best,\n[Name]

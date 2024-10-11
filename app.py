@@ -1,11 +1,11 @@
+import warnings
+warnings.filterwarnings("ignore")
 import torch 
 import argparse
 import json
 from src.RAG.rag import RAG
 from src.classifier.DistillBERT import DistilBERTClass
 from transformers import DistilBertTokenizerFast
-import warnings
-warnings.filterwarnings("ignore")
 
 parser = argparse.ArgumentParser(description="Automatic email classification and reply")
 parser.add_argument('input_file', type=str, help='The input file to process')
@@ -26,6 +26,7 @@ def classify(text, classifier, tokenizer):
             text,
             None,
             add_special_tokens=True,
+            truncation = True,
             max_length=512,
             pad_to_max_length=True,
             return_token_type_ids=True
@@ -75,7 +76,7 @@ if __name__ == "__main__":
 
     else:
         print("Reaserch Query")
-        r = RAG(api_key, doc_path=args.doc_path,  device=device)
+        r = RAG(api_key, doc_path=args.doc_path,  device=device, retrieval_cutoff=2)  #retrieval_cutoff is lower because research documents should be concise to field of research 
         reply = r.reply(text)
         
         if args.verbose:
