@@ -2,6 +2,7 @@ You have to reply the following email which is for HOD of a department in Academ
 {email}
 
 The following information can be helpful in replying the email correctly:
-
-
+{doc1}
+{doc2}
+{doc3}
 with this info, generate a reply email
